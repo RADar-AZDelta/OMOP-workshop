@@ -1,0 +1,9 @@
+SELECT
+  CONCAT('CARESITE_', care_site_id) AS care_site_id,
+  care_site_name AS care_site_name,
+  CONCAT('CARESITE_', place_of_service_source_value) AS place_of_service_concept_id,
+  'CAMPUS_RUMBEKE' AS location_id,
+  care_site_name AS care_site_source_value,
+  place_of_service_source_value AS place_of_service_source_value
+FROM
+  {{project_raw}}.raw_data.caresite

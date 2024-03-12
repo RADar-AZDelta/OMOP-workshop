@@ -1,0 +1,78 @@
+SELECT
+  CONCAT('QUESTIONNAIRES_',filled_questionnaire_id) AS measurement_id,
+  CONCAT('PATIENT_', patientnumber) AS person_id,
+  CONCAT('QUESTIONNAIRES_', question_id) AS measurement_concept_id,
+  DATE(questionnaire_date) AS measurement_date,
+  DATETIME(questionnaire_date) AS measurement_datetime,
+  CAST(TIME(questionnaire_date) AS STRING) AS measurement_time,
+  CAST(NULL AS STRING) AS measurement_type_concept_id,
+  CONCAT("QUESTIONNAIRES_",'=') AS operator_concept_id,
+  CAST(NULL AS string) AS value_as_concept_id,
+  IF (REGEXP_CONTAINS(TRIM(COALESCE(answer1,answer2)), r'^[+-]?([0-9]+[.,]?[0-9]*)$'),CAST(REPLACE(TRIM(COALESCE(answer1,answer2)), ",", ".") AS float64),CAST(NULL AS float64)) AS value_as_number,
+  CASE question
+    WHEN "BMI (ophalen)" THEN CONCAT("QUESTIONNAIRES_",'kg/m2')
+    WHEN "Lengte (ophalen)" THEN CONCAT("QUESTIONNAIRES_",'cm')
+    WHEN "Gewicht (ophalen)" THEN CONCAT("QUESTIONNAIRES_",'kg')
+  END AS unit_concept_id,
+  CAST(NULL AS FLOAT64) AS range_low,
+  CAST(NULL AS FLOAT64) AS range_high,
+  CAST(NULL AS STRING) AS provider_id,
+  CAST(NULL AS STRING) AS visit_occurrence_id,
+  CAST(NULL AS STRING) AS visit_detail_id,
+  question AS measurement_source_value,
+  CAST(NULL AS STRING) AS measurement_source_concept_id,
+  CASE question
+    WHEN "BMI (ophalen)" THEN "kg/m2"
+    WHEN "Lengte (ophalen)" THEN "cm"
+    WHEN "Gewicht (ophalen)" THEN "kg"
+  END AS unit_source_value,
+  CAST(NULL AS STRING) AS unit_source_concept_id,
+  CAST(NULL AS STRING) AS value_source_value,
+  CAST(NULL AS STRING) AS measurement_event_id,
+  CAST(NULL AS STRING) AS meas_event_field_concept_id
+FROM
+  {{project_raw}}.raw_data.questionnaires
+WHERE
+  question IN ("BMI (ophalen)",
+    "Lengte (ophalen)",
+    "Gewicht (ophalen)")
+  AND
+  IF (REGEXP_CONTAINS(TRIM(COALESCE(answer1,answer2)), r'^[+-]?([0-9]+[.,]?[0-9]*)$'),CAST(REPLACE(TRIM(COALESCE(answer1,answer2)), ",", ".") AS float64),CAST(NULL AS float64)) IS NOT NULL
+UNION ALL
+SELECT
+  CONCAT('QUESTIONNAIRES_',filled_questionnaire_id) AS measurement_id,
+  CONCAT('PATIENT_', patientnumber) AS person_id,
+  CONCAT('QUESTIONNAIRES_', question_id) AS measurement_concept_id,
+  DATE(questionnaire_date) AS measurement_date,
+  DATETIME(questionnaire_date) AS measurement_datetime,
+  CAST(TIME(questionnaire_date) AS STRING) AS measurement_time,
+  CAST(NULL AS STRING) AS measurement_type_concept_id,
+  CONCAT("QUESTIONNAIRES_",'=') AS operator_concept_id,
+  CAST(NULL AS string) AS value_as_concept_id,
+  IF (REGEXP_CONTAINS(RTRIM(SUBSTRING(answer2, STRPOS(answer2, "VALUE1=") + 7), '"'), r'^[+-]?([0-9]+[.,]?[0-9]*)$'),CAST(REPLACE(RTRIM(SUBSTRING(answer2, STRPOS(answer2, "VALUE1=") + 7), '"'), ",", ".") AS float64),CAST(NULL AS float64)) AS value_as_number,
+  CASE question
+    WHEN "Lengte (cm)" THEN CONCAT("QUESTIONNAIRES_",'cm')
+    WHEN "Gewicht" THEN CONCAT("QUESTIONNAIRES_",'kg')
+  END AS unit_concept_id,
+  CAST(NULL AS FLOAT64) AS range_low,
+  CAST(NULL AS FLOAT64) AS range_high,
+  CAST(NULL AS STRING) AS provider_id,
+  CAST(NULL AS STRING) AS visit_occurrence_id,
+  CAST(NULL AS STRING) AS visit_detail_id,
+  question AS measurement_source_value,
+  CAST(NULL AS STRING) AS measurement_source_concept_id,
+  CASE question
+    WHEN "Lengte (cm)" THEN "cm"
+    WHEN "Gewicht" THEN "kg"
+  END AS unit_source_value,
+  CAST(NULL AS STRING) AS unit_source_concept_id,
+  CAST(NULL AS STRING) AS value_source_value,
+  CAST(NULL AS STRING) AS measurement_event_id,
+  CAST(NULL AS STRING) AS meas_event_field_concept_id
+FROM
+  {{project_raw}}.raw_data.questionnaires
+WHERE
+  question IN ("Lengte (cm)",
+    "Gewicht")
+  AND
+    IF (REGEXP_CONTAINS(RTRIM(SUBSTRING(answer2, STRPOS(answer2, "VALUE1=") + 7), '"'), r'^[+-]?([0-9]+[.,]?[0-9]*)$'),CAST(REPLACE(RTRIM(SUBSTRING(answer2, STRPOS(answer2, "VALUE1=") + 7), '"'), ",", ".") AS float64),CAST(NULL AS float64)) IS NOT NULL
