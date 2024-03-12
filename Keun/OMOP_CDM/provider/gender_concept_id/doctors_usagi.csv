@@ -1,0 +1,3 @@
+sourceCode,sourceName,sourceFrequency,conceptId,sourceAutoAssignedConceptIds,conceptName,domainId,matchScore,mappingStatus,equivalence,statusSetBy,statusSetOn,mappingType,comment,createdBy,createdOn,assignedReviewer,ADD_INFO:approvedBy,ADD_INFO:approvedOn,ADD_INFO:numberOfConcepts,ADD_INFO:customConcept,ADD_INFO:additionalInfo,ADD_INFO:prescriptionID,ADD_INFO:ATC,ADD_INFO:lastAthenaFilter
+DOCTORS_M,M,3,8507,,MALE,Gender,0,APPROVED,EQUAL,Stijn Dupulthys,1693230146448,,,Stijn Dupulthys,1693230146448,,,,1,,,,,male
+DOCTORS_V,V,3,8532,,FEMALE,Gender,0,APPROVED,EQUAL,Stijn Dupulthys,1693230158577,,,Stijn Dupulthys,1693230158577,,,,1,,,,,female

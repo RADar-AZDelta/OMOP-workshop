@@ -1,0 +1,528 @@
+sourceCode,sourceName,sourceFrequency
+DIAGNOSES_10_D_C3411,"Malignant neoplasm of upper lobe, right bronchus or lung",1043
+DIAGNOSES_10_D_C3412,"Malignant neoplasm of upper lobe, left bronchus or lung",563
+DIAGNOSES_10_D_C3431,"Malignant neoplasm of lower lobe, right bronchus or lung",444
+DIAGNOSES_10_D_J449,"Chronic obstructive pulmonary disease, unspecified",330
+DIAGNOSES_10_D_I10,Essential (primary) hypertension,328
+DIAGNOSES_10_D_C3432,"Malignant neoplasm of lower lobe, left bronchus or lung",295
+DIAGNOSES_10_D_C3402,Malignant neoplasm of left main bronchus,198
+DIAGNOSES_10_D_C3401,Malignant neoplasm of right main bronchus,180
+DIAGNOSES_10_D_J910,Malignant pleural effusion,144
+DIAGNOSES_10_D_E119,Type 2 diabetes mellitus without complications,137
+DIAGNOSES_10_D_C3481,Malignant neoplasm of ovrlp sites of right bronchus and lung,115
+DIAGNOSES_10_D_I252,Old myocardial infarction,107
+DIAGNOSES_10_D_C3491,Malignant neoplasm of unsp part of right bronchus or lung,92
+DIAGNOSES_10_D_C3492,Malignant neoplasm of unsp part of left bronchus or lung,92
+DIAGNOSES_10_D_C7A8,Other malignant neuroendocrine tumors,88
+DIAGNOSES_10_D_C342,"Malignant neoplasm of middle lobe, bronchus or lung",82
+DIAGNOSES_10_D_C3482,Malignant neoplasm of ovrlp sites of left bronchus and lung,82
+DIAGNOSES_10_D_N183,"Chronic kidney disease, stage 3 (moderate)",77
+DIAGNOSES_10_D_K7031,Alcoholic cirrhosis of liver with ascites,70
+DIAGNOSES_10_D_Z8673,"Prsnl hx of TIA (TIA), and cereb infrc w/o resid deficits",68
+DIAGNOSES_CS01301564,Maligne neoplasma van bronchus en long (longcarcinoom),67
+DIAGNOSES_10_D_Z8546,Personal history of malignant neoplasm of prostate,62
+DIAGNOSES_10_D_C61,Malignant neoplasm of prostate,59
+DIAGNOSES_10_D_J440,Chr obstructive pulmon disease with (acute) lower resp infct,48
+DIAGNOSES_10_D_C411,Malignant neoplasm of mandible,42
+DIAGNOSES_10_D_Z8505,Personal history of malignant neoplasm of liver,42
+DIAGNOSES_10_D_J441,Chronic obstructive pulmonary disease w (acute) exacerbation,40
+DIAGNOSES_10_D_C154,Malignant neoplasm of middle third of esophagus,40
+DIAGNOSES_10_D_C221,Intrahepatic bile duct carcinoma,38
+DIAGNOSES_10_D_I255,Ischemic cardiomyopathy,37
+DIAGNOSES_10_D_I129,Hypertensive chronic kidney disease w stg 1-4/unsp chr kdny,34
+DIAGNOSES_10_D_Z85818,"Prsnl hx of malig neoplm of site of lip, oral cav, and pharynx",33
+DIAGNOSES_9_D_4011,BENIGNE ESSENTIELE HYPERTENSIE,30
+DIAGNOSES_CLDT0000050463,Non-small cell lung cancer (disorder),29
+DIAGNOSES_CLDT0000050463,niet-kleincellig longcarcinoom,29
+DIAGNOSES_CLDT0000050463,NSCLC,29
+DIAGNOSES_10_D_I5022,Chronic systolic (congestive) heart failure,26
+DIAGNOSES_9_D_25000,"DIABETES MELLITUS ZONDER VERMELDING VAN COMPLICATIE, TYPE II (NIET-INSULINE DEPENDENT) (NIDDM-TYPE) ('ADULT-ONSET') OF NIET GESPECIFICEERDE VORM, NIET-GESPECIFICEERD ALS INSTABIEL",26
+DIAGNOSES_10_D_Z85828,Personal history of other malignant neoplasm of skin,24
+DIAGNOSES_10_D_C7A1,Malignant poorly differentiated neuroendocrine tumors,23
+DIAGNOSES_CLDT0000040223,invasief adenocarcinoom van long,22
+DIAGNOSES_CLDT0000040223,Invasive adenocarcinoma of lung (disorder),22
+DIAGNOSES_10_D_I110,Hypertensive heart disease with heart failure,22
+DIAGNOSES_10_D_Z8551,Personal history of malignant neoplasm of bladder,21
+DIAGNOSES_9_D_49120,OBSTRUCTIEVE CHRONISCHE BRONCHITIS ZONDER EXACERBATIE,21
+DIAGNOSES_CLDT0000002655,diabetes mellitus type 2,20
+DIAGNOSES_CLDT0000002655,niet-insuline-afhankelijke diabetes mellitus,20
+DIAGNOSES_CLDT0000002655,niet-insuline-afhankelijke diabetes mellitus type 2 zonder complicaties,20
+DIAGNOSES_CLDT0000002655,Diabetes mellitus type 2 (disorder),20
+DIAGNOSES_CLDT0000002655,DM 2,20
+DIAGNOSES_CLDT0000002655,diabetes mellitus type 2 [DM2],20
+DIAGNOSES_10_D_E1165,Type 2 diabetes mellitus with hyperglycemia,20
+DIAGNOSES_10_D_D631,Anemia in chronic kidney disease,19
+DIAGNOSES_10_D_N182,"Chronic kidney disease, stage 2 (mild)",19
+DIAGNOSES_CLDT0000005097,arteriële hypertensie,18
+DIAGNOSES_CLDT0000005097,AHT,18
+DIAGNOSES_CLDT0000005097,essentiële hypertensie,18
+DIAGNOSES_CLDT0000005097,idiopathische hoge bloeddruk,18
+DIAGNOSES_CLDT0000005097,Essential hypertension (disorder),18
+DIAGNOSES_CLDT0000005097,primaire hypertensie,18
+DIAGNOSES_CLDT0000050362,Small cell carcinoma of lung (disorder),18
+DIAGNOSES_CLDT0000050362,kleincellig longcarcinoom,18
+DIAGNOSES_CLDT0000050362,SCLC,18
+DIAGNOSES_CLDT0000005783,COPD,17
+DIAGNOSES_CLDT0000005783,Chronic obstructive lung disease (disorder),17
+DIAGNOSES_CLDT0000005783,chronische obstructieve longaandoening [COPD],17
+DIAGNOSES_CLDT0000005783,chronic obstructive pulmonary disease,17
+DIAGNOSES_10_D_Z8501,Personal history of malignant neoplasm of esophagus,17
+DIAGNOSES_10_D_I420,Dilated cardiomyopathy,16
+DIAGNOSES_10_D_N186,End stage renal disease,16
+DIAGNOSES_10_D_Z992,Dependence on renal dialysis,16
+DIAGNOSES_10_D_I714,"Abdominal aortic aneurysm, without rupture",15
+DIAGNOSES_10_D_J702,Acute drug-induced interstitial lung disorders,15
+DIAGNOSES_10_D_C187,Malignant neoplasm of sigmoid colon,15
+DIAGNOSES_10_D_I130,Hyp hrt and chr kdny dis w hrt fail and stg 1-4/unsp chr kdny,15
+DIAGNOSES_10_D_I7389,Other specified peripheral vascular diseases,15
+DIAGNOSES_10_D_C8333,"Diffuse large B-cell lymphoma, intra-abdominal lymph nodes",15
+DIAGNOSES_10_D_I671,"Cerebral aneurysm, nonruptured",15
+DIAGNOSES_10_D_I5021,Acute systolic (congestive) heart failure,14
+DIAGNOSES_10_D_Z8521,Personal history of malignant neoplasm of larynx,14
+DIAGNOSES_10_D_C672,Malignant neoplasm of lateral wall of bladder,14
+DIAGNOSES_10_D_I426,Alcoholic cardiomyopathy,14
+DIAGNOSES_10_D_E1122,Type 2 diabetes mellitus w diabetic chronic kidney disease,13
+DIAGNOSES_10_D_K7030,Alcoholic cirrhosis of liver without ascites,12
+DIAGNOSES_10_D_I501,"Left ventricular failure, unspecified",11
+DIAGNOSES_10_D_C801,"Malignant (primary) neoplasm, unspecified",11
+DIAGNOSES_10_D_C711,Malignant neoplasm of frontal lobe,11
+DIAGNOSES_10_D_C321,Malignant neoplasm of supraglottis,11
+DIAGNOSES_10_D_N1832,"Chronic kidney disease, stage 3b",10
+DIAGNOSES_10_D_I214,Non-ST elevation (NSTEMI) myocardial infarction,10
+DIAGNOSES_10_D_Z801,"Family history of malig neoplasm of trachea, bronc and lung",10
+DIAGNOSES_10_D_C180,Malignant neoplasm of cecum,10
+DIAGNOSES_10_D_C049,"Malignant neoplasm of floor of mouth, unspecified",10
+DIAGNOSES_10_D_I120,Hyp chr kidney disease w stage 5 chr kidney disease or ESRD,9
+DIAGNOSES_10_D_I739,"Peripheral vascular disease, unspecified",9
+DIAGNOSES_10_D_I5032,Chronic diastolic (congestive) heart failure,9
+DIAGNOSES_10_D_C155,Malignant neoplasm of lower third of esophagus,9
+DIAGNOSES_10_D_N184,"Chronic kidney disease, stage 4 (severe)",9
+DIAGNOSES_10_D_Z859,"Personal history of malignant neoplasm, unspecified",8
+DIAGNOSES_10_D_C642,"Malignant neoplasm of left kidney, except renal pelvis",8
+DIAGNOSES_10_D_K760,"Fatty (change of) liver, not elsewhere classified",8
+DIAGNOSES_10_D_N1831,"Chronic kidney disease, stage 3a",8
+DIAGNOSES_10_D_J9621,Acute and chronic respiratory failure with hypoxia,8
+DIAGNOSES_CLDT0000051837,niet-kleincellig bronchuscarcinoom,7
+DIAGNOSES_CLDT0000051837,Non-small cell carcinoma of bronchus (disorder),7
+DIAGNOSES_10_D_I2722,Pulmonary hypertension due to left heart disease,7
+DIAGNOSES_10_D_I70213,"Athscl native arteries of extrm w intrmt claud, bi legs",7
+DIAGNOSES_10_D_C3490,Malignant neoplasm of unsp part of unsp bronchus or lung,7
+DIAGNOSES_10_D_K7200,Acute and subacute hepatic failure without coma,7
+DIAGNOSES_CLDT0000050414,Malignant tumor of bronchus (disorder),7
+DIAGNOSES_CLDT0000050414,maligne tumor van bronchus,7
+DIAGNOSES_CLDT0000050414,maligne neoplasma van bronchus,7
+DIAGNOSES_CLDT0000005342,perifeer vaatlijden,7
+DIAGNOSES_CLDT0000005342,Peripheral vascular disease (disorder),7
+DIAGNOSES_9_D_20280,"OVERIGE LYMFOMEN, NIET GESPECIFICEERDE LOKALISATIE, EXTRANODALE EN VASTE ORGAAN LOKALISATIE",7
+DIAGNOSES_9_D_20288,"OVERIGE LYMFOMEN, LYMFKLIEREN VAN MULTIPELE LOKALISATIES",7
+DIAGNOSES_10_D_C132,Malignant neoplasm of posterior wall of hypopharynx,7
+DIAGNOSES_10_D_K7010,Alcoholic hepatitis without ascites,6
+DIAGNOSES_CLDT0000039683,maligne neoplasma van long,6
+DIAGNOSES_CLDT0000039683,maligne tumor van long,6
+DIAGNOSES_CLDT0000039683,malignant neoplasm lung,6
+DIAGNOSES_CLDT0000039683,Malignant tumor of lung (disorder),6
+DIAGNOSES_CLDT0000050029,Acute exacerbation of chronic obstructive airways disease (disorder),6
+DIAGNOSES_CLDT0000050029,acute exacerbatie van COPD,6
+DIAGNOSES_9_D_5712,ALCOHOLISCHE LEVERCIRROSE,6
+DIAGNOSES_10_D_I5023,Acute on chronic systolic (congestive) heart failure,6
+DIAGNOSES_10_D_I509,"Heart failure, unspecified",6
+DIAGNOSES_10_D_Z85028,Personal history of other malignant neoplasm of stomach,6
+DIAGNOSES_10_D_Z85048,"Prsnl hx of malig neoplm of rectum, rectosig junct, and anus",6
+DIAGNOSES_10_D_C138,Malignant neoplasm of overlapping sites of hypopharynx,6
+DIAGNOSES_10_D_C131,"Malig neoplasm of aryepiglottic fold, hypopharyngeal aspect",6
+DIAGNOSES_10_D_I70211,"Athscl native arteries of extrm w intrmt claud, right leg",5
+DIAGNOSES_10_D_I272,Other secondary pulmonary hypertension,5
+DIAGNOSES_10_D_Z85038,Personal history of malignant neoplasm of large intestine,5
+DIAGNOSES_10_D_E1121,Type 2 diabetes mellitus with diabetic nephropathy,5
+DIAGNOSES_10_D_I70212,"Athscl native arteries of extrm w intrmt claud, left leg",5
+DIAGNOSES_10_D_E1159,Type 2 diabetes mellitus with oth circulatory complications,5
+DIAGNOSES_10_D_I2723,Pulmonary hypertension due to lung diseases and hypoxia,5
+DIAGNOSES_10_D_E1022,Type 1 diabetes mellitus w diabetic chronic kidney disease,5
+DIAGNOSES_10_D_I69251,Hemiplga fol oth ntrm intcrn hemor aff right dominant side,5
+DIAGNOSES_10_D_I6203,Nontraumatic chronic subdural hemorrhage,4
+DIAGNOSES_10_D_J45909,"Unspecified asthma, uncomplicated",4
+DIAGNOSES_10_D_I70202,"Unsp athscl native arteries of extremities, left leg",4
+DIAGNOSES_10_D_I63511,Cereb infrc d/t unsp occls or stenos of right mid cereb art,4
+DIAGNOSES_10_D_Z85528,Personal history of other malignant neoplasm of kidney,4
+DIAGNOSES_9_D_49122,OBSTRUCTIEVE CHRONISCHE BRONCHITIS MET ACUTE BRONCHITIS,4
+DIAGNOSES_10_D_J9622,Acute and chronic respiratory failure with hypercapnia,4
+DIAGNOSES_10_D_Z192,Hormone resistant malignancy status,4
+DIAGNOSES_10_D_J45998,Other asthma,4
+DIAGNOSES_10_D_E11319,Type 2 diabetes w unsp diabetic rtnop w/o macular edema,4
+DIAGNOSES_9_D_V1005,"PERSOONLIJKE ANAMNESE MET MALIGNE NEOPLASMA, DIKKE DARM",4
+DIAGNOSES_9_D_V1004,"PERSOONLIJKE ANAMNESE MET MALIGNE NEOPLASMA, MAAG",4
+DIAGNOSES_10_D_I422,Other hypertrophic cardiomyopathy,4
+DIAGNOSES_10_D_I7092,Chronic total occlusion of artery of the extremities,4
+DIAGNOSES_10_D_J439,"Emphysema, unspecified",4
+DIAGNOSES_10_D_K7469,Other cirrhosis of liver,4
+DIAGNOSES_10_D_K7581,Nonalcoholic steatohepatitis (NASH),4
+DIAGNOSES_9_D_5710,ALCOHOLISCHE VETLEVER,4
+DIAGNOSES_9_D_1504,MALIGNE NEOPLASMA VAN HET MIDDELSTE DERDE DEEL VAN DE OESOFAGUS,4
+DIAGNOSES_10_D_E1010,Type 1 diabetes mellitus with ketoacidosis without coma,4
+DIAGNOSES_10_D_C101,Malignant neoplasm of anterior surface of epiglottis,4
+DIAGNOSES_10_D_I69120,Aphasia following nontraumatic intracerebral hemorrhage,4
+DIAGNOSES_10_D_Z853,Personal history of malignant neoplasm of breast,3
+DIAGNOSES_CLDT0000004164,TIA,3
+DIAGNOSES_CLDT0000004164,transient ischemic attack,3
+DIAGNOSES_CLDT0000004164,transient (cerebral) ischaemic attack [TIA],3
+DIAGNOSES_CLDT0000004164,TIA in huidige graviditeit,3
+DIAGNOSES_CLDT0000004164,Transient ischemic attack (disorder),3
+DIAGNOSES_CLDT0000004164,transient ischaemic attack [TIA],3
+DIAGNOSES_CLDT0000004164,transient ischemic attack [TIA],3
+DIAGNOSES_10_D_I2609,Other pulmonary embolism with acute cor pulmonale,3
+DIAGNOSES_10_D_I50811,Acute right heart failure,3
+DIAGNOSES_10_D_I6782,Cerebral ischemia,3
+DIAGNOSES_10_D_E1151,Type 2 diabetes w diabetic peripheral angiopath w/o gangrene,3
+DIAGNOSES_10_D_I63232,Cereb infrc due to unsp occls or stenos of left carotid art,3
+DIAGNOSES_CLDT0000005261,cerebrovasculair accident,3
+DIAGNOSES_CLDT0000005261,beroerte,3
+DIAGNOSES_CLDT0000005261,cerebrovasculair accident [CVA],3
+DIAGNOSES_CLDT0000005261,cerebrovasculair accident (CVA),3
+DIAGNOSES_CLDT0000005261,cerebrovascular accident,3
+DIAGNOSES_CLDT0000005261,Cerebrovascular accident (disorder),3
+DIAGNOSES_10_D_I6521,Occlusion and stenosis of right carotid artery,3
+DIAGNOSES_9_D_4168,OVERIGE CHRONISCHE PULMONALE HARTAANDOENINGEN,3
+DIAGNOSES_10_D_J9611,Chronic respiratory failure with hypoxia,3
+DIAGNOSES_CLDT0000009775,chronische nierinsufficiëntie,3
+DIAGNOSES_CLDT0000009775,Chronic renal failure syndrome (disorder),3
+DIAGNOSES_CLDT0000009775,CNI,3
+DIAGNOSES_CS01485674,Perifeer vaatlijden,3
+DIAGNOSES_10_D_I2119,STEMI involving oth coronary artery of inferior wall,3
+DIAGNOSES_CLDT0000040224,adenocarcinoma in situ van long,3
+DIAGNOSES_CLDT0000040224,Adenocarcinoma in situ of lung (disorder),3
+DIAGNOSES_10_D_K769,"Liver disease, unspecified",3
+DIAGNOSES_CS01301648,Diabetes mellitus type 2 (DMII) insuline afh.,3
+DIAGNOSES_CLDT0000040225,plaveiselcelcarcinoom van long,3
+DIAGNOSES_CLDT0000040225,Squamous cell carcinoma of lung (disorder),3
+DIAGNOSES_9_D_4371,OVERIGE GEGENERALISEERDE ISCHEMISCHE CEREBROVASCULAIRE AANDOENINGEN,3
+DIAGNOSES_9_D_44021,ATHEROSCLEROSE VAN OORSPRONKELIJKE ARTERIES VAN LEDEMATEN MET CLAUDICATIO INTERMITTENS,3
+DIAGNOSES_10_D_E11649,Type 2 diabetes mellitus with hypoglycemia without coma,3
+DIAGNOSES_9_D_49121,OBSTRUCTIEVE CHRONISCHE BRONCHITIS MET (ACUTE) EXACERBATIE,3
+DIAGNOSES_10_D_C220,Liver cell carcinoma,3
+DIAGNOSES_9_D_412,OUD MYOCARD INFARCT,3
+DIAGNOSES_9_D_4400,ATHEROSCLEROSE VAN AORTA,3
+DIAGNOSES_9_D_5853,"CHRONISCHE NIERZIEKTE, STADIUM III (MATIG)",3
+DIAGNOSES_9_D_V1052,"PERSOONLIJKE ANAMNESE MET MALIGNE NEOPLASMA, NIER",3
+DIAGNOSES_9_D_V1002,"PERSOONLIJKE ANAMNESE MET MALIGNE NEOPLASMA, OVERIGE EN NIET GESPECIFICEERDE LOKALISATIES IN MONDHOLTE EN FARYNX",3
+DIAGNOSES_10_D_C20,Malignant neoplasm of rectum,3
+DIAGNOSES_10_D_I70261,"Athscl native arteries of extremities w gangrene, right leg",3
+DIAGNOSES_10_D_J849,"Interstitial pulmonary disease, unspecified",3
+DIAGNOSES_CLDT0000006314,levercirrose,3
+DIAGNOSES_CLDT0000006314,Cirrhosis of liver (disorder),3
+DIAGNOSES_CLDT0000006314,cirrose van lever,3
+DIAGNOSES_CLDT0000006324,vettige leverdegeneratie,3
+DIAGNOSES_CLDT0000006324,leversteatose,3
+DIAGNOSES_CLDT0000006324,steatosis hepatis,3
+DIAGNOSES_CLDT0000006324,Steatosis of liver (disorder),3
+DIAGNOSES_10_D_K767,Hepatorenal syndrome,3
+DIAGNOSES_10_D_E1142,Type 2 diabetes mellitus with diabetic polyneuropathy,3
+DIAGNOSES_9_D_V1003,"PERSOONLIJKE ANAMNESE MET MALIGNE NEOPLASMA, OESOFAGUS",3
+DIAGNOSES_CLDT0000050644,Femoral artery thrombosis (disorder),3
+DIAGNOSES_CLDT0000050644,trombose van arteria femoralis,3
+DIAGNOSES_10_D_I70235,Athscl native arteries of right leg w ulcer oth prt foot,3
+DIAGNOSES_10_D_K7290,"Hepatic failure, unspecified without coma",3
+DIAGNOSES_10_D_I43,Cardiomyopathy in diseases classified elsewhere,3
+DIAGNOSES_10_D_I69351,Hemiplga following cerebral infrc aff right dominant side,3
+DIAGNOSES_10_D_J80,Acute respiratory distress syndrome,2
+DIAGNOSES_CLDT0000001376,maligne neoplasma van prostaat,2
+DIAGNOSES_CLDT0000001376,malignant neoplasm prostate,2
+DIAGNOSES_CLDT0000001376,Malignant tumor of prostate (disorder),2
+DIAGNOSES_CLDT0000001376,prostaatcarcinoom,2
+DIAGNOSES_CLDT0000001376,maligne tumor van prostaat,2
+DIAGNOSES_10_D_K7460,Unspecified cirrhosis of liver,2
+DIAGNOSES_10_D_Z191,Hormone sensitive malignancy status,2
+DIAGNOSES_10_D_G459,"Transient cerebral ischemic attack, unspecified",2
+DIAGNOSES_10_D_I50814,Right heart failure due to left heart failure,2
+DIAGNOSES_10_D_I6501,Occlusion and stenosis of right vertebral artery,2
+DIAGNOSES_10_D_J9612,Chronic respiratory failure with hypercapnia,2
+DIAGNOSES_10_D_N185,"Chronic kidney disease, stage 5",2
+DIAGNOSES_9_D_43820,"LATE GEVOLGEN VAN CEREBROVASCULAIRE ZIEKTE, HEMIPLEGIE VAN NIET-GESPECIFICEERDE ZIJDE",2
+DIAGNOSES_10_D_I5033,Acute on chronic diastolic (congestive) heart failure,2
+DIAGNOSES_CLDT0000062407,ischemische cardiomyopathie,2
+DIAGNOSES_CLDT0000062407,ischemische cardiomyopathie (aandoening),2
+DIAGNOSES_10_D_C182,Malignant neoplasm of ascending colon,2
+DIAGNOSES_10_D_E0910,Drug/chem diabetes mellitus w ketoacidosis w/o coma,2
+DIAGNOSES_10_D_I6789,Other cerebrovascular disease,2
+DIAGNOSES_CLDT0000005785,allergisch astma,2
+DIAGNOSES_10_D_I608,Other nontraumatic subarachnoid hemorrhage,2
+DIAGNOSES_10_D_I6201,Nontraumatic acute subdural hemorrhage,2
+DIAGNOSES_CLDT0000005239,hartdecompensatie,2
+DIAGNOSES_CLDT0000005239,systolische en diastolische dysfunctie,2
+DIAGNOSES_CLDT0000005239,"hartdecompensatie, niet gespecificeerd",2
+DIAGNOSES_CLDT0000005239,congestief hartfalen,2
+DIAGNOSES_CLDT0000005239,hartfalen,2
+DIAGNOSES_CLDT0000005239,decompensatio cordis,2
+DIAGNOSES_CLDT0000005239,cardiale insufficiëntie,2
+DIAGNOSES_CLDT0000005239,linker- rechterhartfalen,2
+DIAGNOSES_CLDT0000005239,Decompensated cardiac failure (disorder),2
+DIAGNOSES_CLDT0000005239,cordecompensatie,2
+DIAGNOSES_CLDT0000005239,corfalen,2
+DIAGNOSES_10_D_I63312,Cerebral infrc due to thombos of left middle cerebral artery,2
+DIAGNOSES_9_D_V103,"PERSOONLIJKE ANAMNESE MET MALIGNE NEOPLASMA, MAMMA",2
+DIAGNOSES_10_D_Z856,Personal history of leukemia,2
+DIAGNOSES_9_D_5718,OVERIGE GESPECIFICEERDE CHRONISCHE NIET-ALCOHOLISCHE LEVERAANDOENINGEN,2
+DIAGNOSES_10_D_I63311,Cereb infrc due to thombos of right middle cerebral artery,2
+DIAGNOSES_10_D_G458,Oth transient cerebral ischemic attacks and related synd,2
+DIAGNOSES_9_D_1481,MALIGNE NEOPLASMA VAN DE SINUS PYRIFORMIS,2
+DIAGNOSES_CS01301898,CARA / COPD,2
+DIAGNOSES_10_D_Z8509,Personal history of malignant neoplasm of digestive organs,2
+DIAGNOSES_10_D_C679,"Malignant neoplasm of bladder, unspecified",2
+DIAGNOSES_10_D_E099,Drug or chemical induced diabetes mellitus w/o complications,2
+DIAGNOSES_9_D_43310,"AFSLUITING EN STENOSE VAN ARTERIA CAROTIS, ZONDER VERMELDING VAN INFARCT VAN HERSENEN",2
+DIAGNOSES_9_D_43330,"MULTIPELE EN BILATERALE AFSLUITING EN STENOSE VAN PRECEREBRALE ARTERIEN, ZONDER VERMELDING VAN INFARCT VAN HERSENEN",2
+DIAGNOSES_10_D_I70222,"Athscl native arteries of extremities w rest pain, left leg",2
+DIAGNOSES_10_D_I638,Other cerebral infarction,2
+DIAGNOSES_10_D_I97821,Postprocedural cerebvasc infarction following other surgery,2
+DIAGNOSES_CLDT0000002654,gecompliceerde diabetes mellitus type 2,2
+DIAGNOSES_CLDT0000002654,Diabetes mellitus type 2 with complication (disorder),2
+DIAGNOSES_9_D_4255,ALCOHOLISCHE CARDIOMYOPATHIE,2
+DIAGNOSES_10_D_K55039,"Acute ischemia of large intestine, extent unspecified",2
+DIAGNOSES_10_D_E0865,Diabetes due to underlying condition w hyperglycemia,2
+DIAGNOSES_10_D_I70201,"Unsp athscl native arteries of extremities, right leg",2
+DIAGNOSES_CLDT0000001438,maligne neoplasma van hersenen,2
+DIAGNOSES_CLDT0000001438,brain tumor malignant,2
+DIAGNOSES_CLDT0000001438,cerebraal maligne neoplasma,2
+DIAGNOSES_CLDT0000001438,maligne tumor van hersenen,2
+DIAGNOSES_CLDT0000001438,Malignant neoplasm of brain (disorder),2
+DIAGNOSES_10_D_K7110,"Toxic liver disease with hepatic necrosis, without coma",2
+DIAGNOSES_10_D_I70239,Athscl native arteries of right leg w ulcer of unsp site,2
+DIAGNOSES_10_D_I70292,"Oth athscl native arteries of extremities, left leg",2
+DIAGNOSES_10_D_I69354,Hemiplga following cerebral infrc affecting left nondom side,2
+DIAGNOSES_10_D_Z940,Kidney transplant status,2
+DIAGNOSES_10_D_I63512,Cereb infrc d/t unsp occls or stenos of left mid cereb art,2
+DIAGNOSES_10_D_J84116,Cryptogenic organizing pneumonia,2
+DIAGNOSES_9_D_3572,POLYNEUROPATHIE BIJ DIABETES,2
+DIAGNOSES_10_D_E118,Type 2 diabetes mellitus with unspecified complications,2
+DIAGNOSES_CLDT0000006275,alcoholische hepatitis,1
+DIAGNOSES_CLDT0000006275,Alcoholic hepatitis (disorder),1
+DIAGNOSES_10_D_K7689,Other specified diseases of liver,1
+DIAGNOSES_CLDT0000014371,acuut transmuraal myocardinfarct van overige delen van myocard met ST elevatie,1
+DIAGNOSES_CLDT0000039313,urotheelcelcarcinoom van nierbekken,1
+DIAGNOSES_CLDT0000039313,Transitional cell carcinoma of renal pelvis (disorder),1
+DIAGNOSES_CLDT0000039313,urotheelcelcarcinoom van pyelum,1
+DIAGNOSES_10_D_C969,"Malig neoplm of lymphoid, hematpoetc and rel tissue, unsp",1
+DIAGNOSES_10_D_I6522,Occlusion and stenosis of left carotid artery,1
+DIAGNOSES_10_D_C946,"Myelodysplastic disease, not classified",1
+DIAGNOSES_10_D_C19,Malignant neoplasm of rectosigmoid junction,1
+DIAGNOSES_CLDT0000035977,insuline-afhankelijke diabetes mellitus type 2,1
+DIAGNOSES_CLDT0000035977,Insulin treated type 2 diabetes mellitus (disorder),1
+DIAGNOSES_CLDT0000039680,seminoma testis,1
+DIAGNOSES_CLDT0000039680,Seminoma of testis (disorder),1
+DIAGNOSES_CLDT0000039680,seminoom van testis,1
+DIAGNOSES_10_D_K55021,Focal (segmental) acute infarction of small intestine,1
+DIAGNOSES_10_D_I1310,"Hyp hrt and chr kdny dis w/o hrt fail, w stg 1-4/unsp chr kdny",1
+DIAGNOSES_10_D_I69312,Vis def/sptl nglct following cerebral infarction,1
+DIAGNOSES_10_D_K700,Alcoholic fatty liver,1
+DIAGNOSES_CLDT0000015713,COPD in anamnese,1
+DIAGNOSES_10_D_H348112,"Central retinal vein occlusion, right eye, stable",1
+DIAGNOSES_CS01485779,Chronische nierschade met nefrotisch syndroom,1
+DIAGNOSES_10_D_C44311,Basal cell carcinoma of skin of nose,1
+DIAGNOSES_10_D_I2781,Cor pulmonale (chronic),1
+DIAGNOSES_10_D_C44292,Oth malig neoplasm skin/ right ear and external auric canal,1
+DIAGNOSES_CLDT0000001237,plaveiselcelcarcinoom van huid van oor,1
+DIAGNOSES_CLDT0000001237,Squamous cell carcinoma of skin of ear (disorder),1
+DIAGNOSES_CLDT0000001237,spinocellulair carcinoom van huid van oor,1
+DIAGNOSES_CLDT0000001237,carcinoma spinocellulare cutis oor en meatus,1
+DIAGNOSES_9_D_5834,"NEFRITIS EN NEFROPATHIE, NIET GESPEC. ALS ACUUT OF CHRONISCH, MET HISTOLOGISCH BEELD VAN SNEL PROGRESSIEVE GLOMERULONEFRITIS",1
+DIAGNOSES_9_D_43813,"LATE GEVOLGEN VAN CEREBROVASCULAIRE ZIEKTE, DYSARTRIE",1
+DIAGNOSES_10_D_I6329,Cerebral infrc due to unsp occls or stenosis of precerb art,1
+DIAGNOSES_10_P_031A0ZF,,1
+DIAGNOSES_CLDT0000013870,"maligne neoplasma met overlappende lokalisatie van bronchus en long, niet kleincellig type",1
+DIAGNOSES_10_D_I611,"Nontraumatic intcrbl hemorrhage in hemisphere, cortical",1
+DIAGNOSES_10_D_I2109,STEMI involving oth coronary artery of anterior wall,1
+DIAGNOSES_CLDT0000037268,oud myocard infarct,1
+DIAGNOSES_CLDT0000037268,Old myocardial infarction (disorder),1
+DIAGNOSES_CLDT0000038028,maligne extra-axiale craniele neoplasie infratentorieel,1
+DIAGNOSES_CLDT0000038028,maligne extra-axiale craniele tumor infratentorieel,1
+DIAGNOSES_CLDT0000038028,Malignant infratentorial extra-axial neoplasm (disorder),1
+DIAGNOSES_CLDT0000051975,Brittle asthma (disorder),1
+DIAGNOSES_CLDT0000051975,moeilijk behandelbaar astma,1
+DIAGNOSES_10_D_J40,"Bronchitis, not specified as acute or chronic",1
+DIAGNOSES_10_D_I2101,STEMI involving left main coronary artery,1
+DIAGNOSES_CLDT0000001080,maligne neoplasma van colon,1
+DIAGNOSES_CLDT0000001080,malignant neoplasm colon,1
+DIAGNOSES_CLDT0000001080,Malignant tumor of colon (disorder),1
+DIAGNOSES_CLDT0000001080,maligne tumor van colon,1
+DIAGNOSES_CLDT0000001080,coloncarcinoom,1
+DIAGNOSES_10_D_I6349,Cerebral infarction due to embolism of other cerebral artery,1
+DIAGNOSES_10_D_Z85819,"Prsnl hx of malig neoplm of unsp site lip,oral cav,and pharynx",1
+DIAGNOSES_CLDT0000001257,basaalcelcarcinoom,1
+DIAGNOSES_CLDT0000001257,basaalcelcarcinoom [BCC],1
+DIAGNOSES_CLDT0000001257,Basal cell carcinoma of skin (disorder),1
+DIAGNOSES_CLDT0000001257,basocellulair carcinoom,1
+DIAGNOSES_CLDT0000001257,carcinoma basocellulare cutis,1
+DIAGNOSES_CLDT0000000953,maligne neoplasma van wangslijmvlies,1
+DIAGNOSES_CLDT0000000953,maligne tumor van wangslijmvlies,1
+DIAGNOSES_CLDT0000000953,Malignant tumor of buccal mucosa (disorder),1
+DIAGNOSES_CLDT0000002706,medicatie-geïnduceerde diabetes mellitus,1
+DIAGNOSES_CLDT0000002706,Drug-induced diabetes mellitus (disorder),1
+DIAGNOSES_CLDT0000002706,geneesmiddel-geïnduceerde diabetes mellitus,1
+DIAGNOSES_10_D_I6502,Occlusion and stenosis of left vertebral artery,1
+DIAGNOSES_10_D_N181,"Chronic kidney disease, stage 1",1
+DIAGNOSES_CLDT0000061765,Chronic kidney disease stage 1 (disorder),1
+DIAGNOSES_CLDT0000061765,chronische nierinsufficiëntie stadium 1,1
+DIAGNOSES_CLDT0000061765,CNI stadium 1,1
+DIAGNOSES_10_D_I701,Atherosclerosis of renal artery,1
+DIAGNOSES_CLDT0000004781,diabetisch maculaoedeem,1
+DIAGNOSES_CLDT0000004781,Diabetic macular edema (disorder),1
+DIAGNOSES_CLDT0000004781,CSME bij DRP,1
+DIAGNOSES_CLDT0000004781,cystoid maculaoedeem bij diabetische retinopathie [CME bij DRP],1
+DIAGNOSES_CLDT0000002736,diabetische voet,1
+DIAGNOSES_CLDT0000002736,Diabetic foot (disorder),1
+DIAGNOSES_10_D_C249,"Malignant neoplasm of biliary tract, unspecified",1
+DIAGNOSES_10_D_C259,"Malignant neoplasm of pancreas, unspecified",1
+DIAGNOSES_10_D_C44599,Oth malignant neoplasm of skin of other part of trunk,1
+DIAGNOSES_10_D_J438,Other emphysema,1
+DIAGNOSES_10_D_I864,Gastric varices,1
+DIAGNOSES_CLDT0000005259,cerebraal infarct door occlusie of stenose van cerebrale arteriën,1
+DIAGNOSES_CLDT0000005259,cerebrovasculair accident door afsluiting cerebrale arterie (CVA),1
+DIAGNOSES_CLDT0000005245,subarachnoïdale bloeding,1
+DIAGNOSES_CLDT0000005245,subarachnoïdale bloeding [SAB],1
+DIAGNOSES_CLDT0000005245,Subarachnoid intracranial hemorrhage (disorder),1
+DIAGNOSES_CLDT0000005245,hemorrhage subarachnoidal,1
+DIAGNOSES_CLDT0000005101,acute hypertensieve nierinsufficiëntie,1
+DIAGNOSES_CLDT0000005101,Acute hypertensive renal failure (disorder),1
+DIAGNOSES_CLDT0000001159,grootcellig carcinoom  van bronchus of long,1
+DIAGNOSES_CLDT0000001159,"maligne neoplasma van bronchus of long, niet kleincellig type",1
+DIAGNOSES_CLDT0000001159,"maligne tumor van bronchus of long, niet kleincellig type",1
+DIAGNOSES_9_D_51883,CHRONISCHE RESPIRATOIRE DECOMPENSATIE,1
+DIAGNOSES_10_D_I70238,Athscl native art of right leg with ulcer oth prt low leg,1
+DIAGNOSES_10_D_I70248,Athscl native art of left leg with ulcer oth prt low leg,1
+DIAGNOSES_10_D_I70263,"Athscl native arteries of extrm w gangrene, bilateral legs",1
+DIAGNOSES_10_P_041K0JJ,,1
+DIAGNOSES_10_D_I5181,Takotsubo syndrome,1
+DIAGNOSES_10_D_I158,Other secondary hypertension,1
+DIAGNOSES_CS01492443,COPD,1
+DIAGNOSES_CLDT0000005121,acuut myocardinfarct,1
+DIAGNOSES_CLDT0000005121,acuut myocardinfarct met ST elevatie,1
+DIAGNOSES_CLDT0000005121,myocardial infarction acute,1
+DIAGNOSES_CLDT0000005121,Acute myocardial infarction (disorder),1
+DIAGNOSES_CLDT0000005121,hartinfarct,1
+DIAGNOSES_10_D_I700,Atherosclerosis of aorta,1
+DIAGNOSES_9_D_1882,MALIGNE NEOPLASMA VAN ZIJWAND VAN DE BLAAS,1
+DIAGNOSES_10_D_N189,"Chronic kidney disease, unspecified",1
+DIAGNOSES_10_D_E0965,Drug or chemical induced diabetes mellitus w hyperglycemia,1
+DIAGNOSES_10_D_I21A1,Myocardial infarction type 2,1
+DIAGNOSES_10_D_I70291,"Oth athscl native arteries of extremities, right leg",1
+DIAGNOSES_10_D_J8489,Other specified interstitial pulmonary diseases,1
+DIAGNOSES_CLDT0000051831,kleincellig bronchuscarcinoom,1
+DIAGNOSES_CLDT0000051831,Small cell carcinoma of bronchus (disorder),1
+DIAGNOSES_CLDT0000051831,SCLC,1
+DIAGNOSES_10_D_C160,Malignant neoplasm of cardia,1
+DIAGNOSES_CLDT0000001052,maligne neoplasma van oesofagus,1
+DIAGNOSES_CLDT0000001052,malignant neoplasm esophagus,1
+DIAGNOSES_CLDT0000001052,Malignant tumor of esophagus (disorder),1
+DIAGNOSES_CLDT0000001052,maligniteit van oesofagus,1
+DIAGNOSES_CLDT0000001052,maligne tumor van oesofagus,1
+DIAGNOSES_CLDT0000001052,malignant tumor esophagus,1
+DIAGNOSES_CLDT0000001052,maligne neoplasma van slokdarm,1
+DIAGNOSES_CLDT0000001052,maligne tumor van slokdarm,1
+DIAGNOSES_CLDT0000001158,kleincellig carcinoom van bronchus of long,1
+DIAGNOSES_CLDT0000001158,"maligne neoplasma van bronchus of long, kleincellig type",1
+DIAGNOSES_CLDT0000001158,"maligne tumor van bronchus of long, kleincellig type",1
+DIAGNOSES_9_D_41071,"SUBENDOCARDIAAL INFARCT, EERSTE BEHANDELINGSPERIODE",1
+DIAGNOSES_9_D_4259,NIET GESPECIFICEERDE SECUNDAIRE CARDIOMYOPATHIE,1
+DIAGNOSES_9_D_4281,"HARTDECOMPENSATIE, LINKSDECOMPENSATIE",1
+DIAGNOSES_10_D_K713,Toxic liver disease with chronic persistent hepatitis,1
+DIAGNOSES_10_D_K717,Toxic liver disease with fibrosis and cirrhosis of liver,1
+DIAGNOSES_10_D_K739,"Chronic hepatitis, unspecified",1
+DIAGNOSES_10_D_K7150,Toxic liver disease w chronic active hepatitis w/o ascites,1
+DIAGNOSES_10_D_K7201,Acute and subacute hepatic failure with coma,1
+DIAGNOSES_CLDT0000006316,gedecompenseerde levercirrose,1
+DIAGNOSES_CLDT0000001258,carcinoma spinocellulare,1
+DIAGNOSES_CLDT0000001258,Squamous cell carcinoma (disorder),1
+DIAGNOSES_CLDT0000001258,plaveiselcelcarcinoom,1
+DIAGNOSES_CLDT0000001258,plaveiselcelcarcinoom [PCC],1
+DIAGNOSES_CLDT0000001258,spinocellulair carcinoom [SCC],1
+DIAGNOSES_CLDT0000001258,carcinoma spinocellulare cutis,1
+DIAGNOSES_9_D_20283,"OVERIGE LYMFOMEN, INTRA-ABDOMINALE LYMFKLIEREN",1
+DIAGNOSES_9_D_20287,"OVERIGE LYMFOMEN, MILT",1
+DIAGNOSES_9_D_25002,"DIABETES MELLITUS ZONDER VERMELDING VAN COMPLICATIE, 'ADULT-ONSET' OF NIET GESPECIFICEERDE VORM, INSTABIEL",1
+DIAGNOSES_9_D_V1079,"PERSOONLIJKE ANAMNESE MET MALIGNE NEOPLASMA, OVERIGE LYMFATISCHE EN HEMATOPOIETISCHE NEOPLASMATA",1
+DIAGNOSES_9_D_4408,ATHEROSCLEROSE VAN OVERIGE GESPECIFICEERDE ARTERIEN,1
+DIAGNOSES_10_D_C189,"Malignant neoplasm of colon, unspecified",1
+DIAGNOSES_10_P_041L0JH,,1
+DIAGNOSES_9_D_1610,MALIGNE NEOPLASMA VAN GLOTTIS,1
+DIAGNOSES_CLDT0000001133,maligne neoplasma van glottis,1
+DIAGNOSES_CLDT0000001133,Malignant tumor of glottis (disorder),1
+DIAGNOSES_CLDT0000001133,maligne tumor van glottis,1
+DIAGNOSES_9_D_185,MALIGNE NEOPLASMA VAN DE PROSTAAT,1
+DIAGNOSES_10_D_I70221,"Athscl native arteries of extremities w rest pain, right leg",1
+DIAGNOSES_10_D_I75021,Atheroembolism of right lower extremity,1
+DIAGNOSES_CLDT0000005343,perifeer arterieel vaatlijden Fontaine stadium 2,1
+DIAGNOSES_CLDT0000005343,perifeer arterieel vaatlijden Fontaine stadium 2 [PAOD2],1
+DIAGNOSES_CLDT0000005343,claudicatio intermittens,1
+DIAGNOSES_CLDT0000005343,Intermittent claudication (disorder),1
+DIAGNOSES_CLDT0000005343,etalagebeen,1
+DIAGNOSES_CLDT0000005390,occlusie van arteria femoralis,1
+DIAGNOSES_CLDT0000005390,Femoral artery occlusion (disorder),1
+DIAGNOSES_10_D_E109,Type 1 diabetes mellitus without complications,1
+DIAGNOSES_10_D_E1021,Type 1 diabetes mellitus with diabetic nephropathy,1
+DIAGNOSES_CLDT0000002630,diabetes mellitus type 1,1
+DIAGNOSES_CLDT0000002630,Diabetes mellitus type 1 (disorder),1
+DIAGNOSES_CLDT0000002630,diabetes mellitus type 1 [DM1],1
+DIAGNOSES_CLDT0000002727,diabetisch coma,1
+DIAGNOSES_CLDT0000002727,Coma associated with diabetes mellitus (disorder),1
+DIAGNOSES_CLDT0000040228,grootcellig neuro-endocrien longcarcinoom,1
+DIAGNOSES_CLDT0000050209,Ketoacidosis in diabetes mellitus (disorder),1
+DIAGNOSES_CLDT0000050209,diabetische ketoacidose,1
+DIAGNOSES_CLDT0000001267,mesothelioom,1
+DIAGNOSES_CLDT0000001267,mesothelioma,1
+DIAGNOSES_CLDT0000001267,"Mesothelioma (malignant, clinical disorder) (disorder)",1
+DIAGNOSES_CLDT0000001165,maligne neoplasma van pleura,1
+DIAGNOSES_CLDT0000001165,Malignant tumor of pleura (disorder),1
+DIAGNOSES_CLDT0000001165,maligne tumor van pleura,1
+DIAGNOSES_10_D_I70223,"Athscl native arteries of extrm w rest pain, bilateral legs",1
+DIAGNOSES_10_D_I75022,Atheroembolism of left lower extremity,1
+DIAGNOSES_10_P_041K0ZL,,1
+DIAGNOSES_10_P_041L09L,,1
+DIAGNOSES_10_P_041L49L,,1
+DIAGNOSES_CLDT0000005194,cardiomyopathie,1
+DIAGNOSES_CLDT0000005194,"cardiomyopathie, niet gespecificeerd",1
+DIAGNOSES_CLDT0000005194,Cardiomyopathy (disorder),1
+DIAGNOSES_CLDT0000005194,cardiomyopathy,1
+DIAGNOSES_10_D_I69320,Aphasia following cerebral infarction,1
+DIAGNOSES_10_D_I69398,Other sequelae of cerebral infarction,1
+DIAGNOSES_10_D_S066X6A,"Traum subrac hem w LOC >24 hr w/o ret consc w surv, init",1
+DIAGNOSES_9_D_5856,TERMINAAL STADIUM NIERZIEKTE,1
+DIAGNOSES_9_D_V561,PLAATSEN EN BIJSTELLEN VAN EXTRACORPORALE DIALYSECATHETER,1
+DIAGNOSES_9_P_3995,,1
+DIAGNOSES_9_D_25040,"DIABETES MET NIERAFWIJKINGEN, TYPE II (NIET-INSULINE DEPENDENT) (NIDDM-TYPE) ('ADULT-ONSET') OF NIET GESPECIFICEERDE VORM, NIET-GESPECIFICEERD ALS INSTABIEL",1
+DIAGNOSES_9_D_25050,"DIABETES MET OOGAFWIJKINGEN, TYPE II (NIET-INSULINE DEPENDENT) (NIDDM-TYPE) ('ADULT-ONSET') OF NIET GESPECIFICEERDE VORM, NIET-GESPECIFICEERD ALS INSTABIEL",1
+DIAGNOSES_9_D_36202,PROLIFERATIEVE DIABETISCHE RETINOPATHIE,1
+DIAGNOSES_9_D_40311,"HYPERTENSIEVE CHRONISCHE NIERZIEKTE, BENIGNE, MET CHRONISCHE NIERZIEKTE STADIUM V OF TERMINAAL STADIUM NIERZIEKTE",1
+DIAGNOSES_10_D_E113293,"Type 2 diab with mild nonp rtnop without macular edema, bi",1
+DIAGNOSES_10_D_J660,Byssinosis,1
+DIAGNOSES_CLDT0000061514,Ischemic stroke (disorder),1
+DIAGNOSES_CLDT0000061514,ischemisch cerebrovasculair accident,1
+DIAGNOSES_CLDT0000061514,ischemisch cerebrovasculair accident [iCVA],1
+DIAGNOSES_10_P_03180ZF,,1
+DIAGNOSES_CLDT0000009649,IgA-nefropathie,1
+DIAGNOSES_CLDT0000009649,berger,1
+DIAGNOSES_CLDT0000009649,Immunoglobulin A nephropathy (disorder),1
+DIAGNOSES_CLDT0000062001,nierinsufficiëntie waarvoor chronische hemodialyse in instelling,1
+DIAGNOSES_10_P_041K0JL,,1
+DIAGNOSES_CLDT0000001033,maligne neoplasma van hypofarynx,1
+DIAGNOSES_CLDT0000001033,malignant neoplasm hypopharyngeal,1
+DIAGNOSES_CLDT0000001033,Malignant tumor of hypopharynx (disorder),1
+DIAGNOSES_CLDT0000001033,maligne tumor van hypofarynx,1
+DIAGNOSES_CLDT0000037757,History of femoral artery bypass (situation),1
+DIAGNOSES_CLDT0000037757,status na bypass arteria femoralis,1
+DIAGNOSES_CLDT0000038310,Peripheral arterial insufficiency (disorder),1
+DIAGNOSES_CLDT0000038310,perifere arteriële insufficiëntie,1
+DIAGNOSES_CLDT0000062475,plaveiselcelcarcinoom in orofarynx,1
+DIAGNOSES_CLDT0000062475,Primary squamous cell carcinoma of oropharynx (disorder),1
+DIAGNOSES_CLDT0000062512,carcinoom van mondbodem,1
+DIAGNOSES_CLDT0000062512,Malignant epithelial neoplasm of floor of mouth (disorder),1
+DIAGNOSES_9_D_25060,"DIABETES MET NEUROLOGISCHE AFWIJKINGEN, TYPE II (NIET-INSULINE DEPENDENT) (NIDDM-TYPE) ('ADULT-ONSET') OF NIET GESPECIFICEERDE VORM, NIET-GESPECIFICEERD ALS INSTABIEL",1
+DIAGNOSES_9_D_25062,"DIABETES MET NEUROLOGISCHE AFWIJKINGEN, 'ADULT-ONSET' OF NIET GESPECIFICEERDE VORM, INSTABIEL",1
+DIAGNOSES_9_D_25092,"DIABETES MET NIET GESPECIFICEERDE COMPLICATIE, 'ADULT-ONSET' OF NIET GESPECIFICEERDE VORM, INSTABIEL",1
+DIAGNOSES_10_D_I69891,Dysphagia following other cerebrovascular disease,1
+DIAGNOSES_10_D_I610,"Nontraumatic intcrbl hemorrhage in hemisphere, subcortical",1
+DIAGNOSES_9_D_5738,OVERIGE GESPECIFICEERDE AANDOENINGEN VAN DE LEVER,1
+DIAGNOSES_CLDT0000001156,maligne neoplasma met overlappende lokalisatie van bronchus en long,1
+DIAGNOSES_CLDT0000001156,Malignant neoplasm of overlapping lesion of bronchus and lung (disorder),1
+DIAGNOSES_CLDT0000001156,maligne tumor met overlappende lokalisatie van bronchus en long,1
+DIAGNOSES_CLDT0000005793,astma,1
+DIAGNOSES_CLDT0000005793,asthma,1
+DIAGNOSES_CLDT0000005793,Asthma (disorder),1

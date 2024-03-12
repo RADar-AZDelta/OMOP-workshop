@@ -1,0 +1,21 @@
+SELECT
+  DISTINCT CONCAT('RADIOTHERAPY_',filled_questionnaire_id) AS procedure_occurrence_id,
+  CONCAT("PATIENT_", patientnumber) AS person_id,
+  CONCAT("QUESTIONNAIRES_", question_id) AS procedure_concept_id,
+  DATE(answer2) AS procedure_date,
+  DATETIME( DATE(answer2),TIME(0,0,0) ) AS procedure_datetime,
+  DATE(answer2) AS procedure_end_date,
+  DATETIME( DATE(answer2),TIME(0,0,0) ) AS procedure_end_datetime,
+  CAST(NULL AS string) AS procedure_type_concept_id,
+  CAST(NULL AS string) AS modifier_concept_id,
+  1 AS quantity,
+  CAST(NULL AS string) AS provider_id,
+  CAST(NULL AS string) AS visit_occurrence_id,
+  CAST(NULL AS string) AS visit_detail_id,
+  CONCAT("QUESTIONNAIRES_", question_id) AS procedure_source_value,
+  CAST(NULL AS string) AS procedure_source_concept_id,
+  CAST(NULL AS string) AS modifier_source_value
+FROM
+  {{project_raw}}.raw_data.questionnaires
+WHERE
+  question_id = 'CS00184644'  -- date of radiotherapy
