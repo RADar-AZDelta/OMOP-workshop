@@ -1,5 +1,6 @@
 from google.cloud import bigquery
 import subprocess
+import json
 
 def load_data_from_gcs_to_bq(project_id, dataset_name, bucket_path, location, source_format):
     # List files in a specific folder in the bucket
@@ -47,12 +48,12 @@ def create_bigquery_dataset(project_id, dataset_id):
         print(f"Dataset {dataset.dataset_id} created.")
 
 
-def create_multiple_datasets(project_id, datasets_to_create):
+def create_multiple_datasets(project_id, user_number, datasets_to_create):
 
     for dataset_id in datasets_to_create:
         create_bigquery_dataset(project_id, dataset_id)
 
-    load_data_from_gcs_to_bq(project_id, "raw_data", f"gs://summer-school-bucket-6/raw_data/", "europe-west1", "PARQUET")
+    load_data_from_gcs_to_bq(project_id, "raw_data", f"gs://summer-school-bucket-{user_number}/raw_data/", "europe-west1", "PARQUET")
 
 def delete_bigquery_dataset(project_id, dataset_id):
     # Create a BigQuery client
@@ -72,20 +73,38 @@ def delete_bigquery_dataset(project_id, dataset_id):
 def delete_multiple_datasets(project_id, datasets_to_delete):
     for dataset_id in datasets_to_delete:
         delete_bigquery_dataset(project_id, dataset_id)
-
-def get_project_id():
+  
+def get_user_number(project_name):
     try:
-        result = subprocess.run(['gcloud', 'config', 'get-value', 'project'], check=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
-        return result.stdout.strip()
+        project_name_split = project_name.split(".")
+        user_number = project_name_split[0][-1]
+        return user_number
+    except Exception as e:
+        print(f"Error occurred: {e}")
+        return None
+        
+def get_project_info():
+    try:
+        result = subprocess.run(['gcloud', 'config', 'list', '--format=json'], check=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
+        config_data = result.stdout.strip()
+        if config_data:
+            config_json = json.loads(config_data)
+            project_id = config_json.get('core', {}).get('project')
+            account = config_json.get('core', {}).get('account')
+            user_number = get_user_number(account)
+            return project_id, user_number
+        else:
+            print("No project configured.")
+            return None, None
     except subprocess.CalledProcessError as e:
         print(f"Error occurred: {e.stderr}")
-        return None
+        return None, None
 
 
 if __name__ == "__main__":
-    project_id = get_project_id()
-    print(f"Start configuring Big Query of project {project_id} ...")
+    project_id, user_number = get_project_info()
+    print(f"Start configuring Big Query of user {user_number}, project {project_id} ...")
     # List of datasets to create if they don't exist
     datasets = ["achilles", "dqd", "omop", "raw_data", "work"]
     delete_multiple_datasets(project_id, datasets)
-    create_multiple_datasets(project_id, datasets)
+    create_multiple_datasets(project_id, user_number, datasets)
