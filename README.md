@@ -113,7 +113,7 @@ Een service account is uniek per account en hangt vast aan het account a.d.h.v. 
 ### Stap 2: + create service account
 
 <div align="left">
-    <img width="50%"  src="static/click-through-2.png" />
+    <img width="90%"  src="static/click-through-2.png" />
 </div>
 
 ### Stap 3: naamgeving
@@ -131,7 +131,7 @@ Het service account heeft de gepaste rechten nodig om acties uit te voeren.
 Geef daarom in dit geval uitzonderlijk hier de rechten van **'Owner'** aan.
 
 <div align="left">
-    <img width="50%"  src="static/click-through-4.png" />
+    <img width="55%"  src="static/click-through-4.png" />
 </div>
 
 ### Stap 5: voeg keys toe
@@ -140,7 +140,7 @@ Na het creeëren van het service account zul je hier op terechtkomen.
 Dit is zichtbaar onder **Service Accounts**.
 
 <div align="left">
-    <img width="50%"  src="static/click-through-5.png" />
+    <img width="100%"  src="static/click-through-5.png" />
 </div>
 
 ### Stap 6: ADD KEY en Create new key. 
@@ -148,7 +148,7 @@ Dit is zichtbaar onder **Service Accounts**.
 Volg de stappen. 
 
 <div align="left">
-    <img width="50%"  src="static/click-through-6.png" />
+    <img width="60%"  src="static/click-through-6.png" />
 </div>
 
 ### Stap 7: JSON as key type => Create
@@ -156,7 +156,7 @@ Volg de stappen.
 Volg de stappen in de foto. Wanneer je op **CREATE** klikt, zal er een .json bestand gedownload worden. Verwijder dit niet. 
 
 <div align="left">
-    <img width="50%"  src="static/click-through-7.png" />
+    <img width="60%"  src="static/click-through-7.png" />
 </div>
 ---
 
