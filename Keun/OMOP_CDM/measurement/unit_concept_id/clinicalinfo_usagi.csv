@@ -1,2 +1,0 @@
-sourceCode,sourceName,sourceFrequency,conceptId,sourceAutoAssignedConceptIds,conceptName,domainId,matchScore,mappingStatus,equivalence,statusSetBy,statusSetOn,mappingType,comment,createdBy,createdOn,assignedReviewer,ADD_INFO:approvedBy,ADD_INFO:approvedOn,ADD_INFO:numberOfConcepts,ADD_INFO:customConcept,ADD_INFO:lastAthenaFilter
-MEASUREMENT_ml,ml,475,8587,8587,milliliter,,0,APPROVED,EQUAL,peter,1693738389847,,,peter,1693738376848,,pj,1693738397054,1,,ml
