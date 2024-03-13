@@ -92,3 +92,14 @@ Controleer of dit correct is gelukt door het volgende commando uit te voeren in 
 ```bash
     riab --version
 ```
+
+## Als uw bucket verwijderd is met bij hoorden data volg dan deze stappen.
+
+1. Open de shell
+
+<img width="960" alt="image" src="https://github.com/RADar-AZDelta/OMOP-workshop/assets/55787755/69196b2f-bce3-4e9e-9db8-17ecb03f6ed4">
+
+
+
+
+
