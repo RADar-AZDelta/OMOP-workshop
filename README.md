@@ -1,5 +1,10 @@
 # OMOP-workshop
 
+## Inhoudstabel
+
+* [Installatie](#installatie)
+* [Service Account aanmaken](#service-account)
+* [Bucket backup bij problemen](#bij-problemen-met-de-cloud-storage)
 
 ## Installatie
 
@@ -93,7 +98,71 @@ Controleer of dit correct is gelukt door het volgende commando uit te voeren in 
     riab --version
 ```
 
-## Als uw bucket verwijderd is met bijhorende data volg dan deze stappen.
+## Service Account
+
+Een service account is uniek per account en hangt vast aan het account a.d.h.v. het emailadres. - [Google documentatie](https://cloud.google.com/iam/docs/service-account-overview)
+
+**DISCLAIMER**: deze stap hoeft enkel worden uitgevoerd, indien iedere workshop deelnemer een eigen account toegewezen krijgt. 
+
+### Stap 1: AIM & Admin => Service Accounts
+
+<div align="left">
+    <img width="50%"  src="static/Click-through-1.png" />
+</div>
+
+### Stap 2: + create service account
+
+<div align="left">
+    <img width="50%"  src="static/click-through-2.png" />
+</div>
+
+### Stap 3: naamgeving
+
+Vul enkel het eerst veld in. 
+Daarna **'Create and Continue'**
+
+<div align="left">
+    <img width="50%"  src="static/click-through-3.png" />
+</div>
+
+### Stap 4: toegang en gepaste rolgeving
+
+Het service account heeft de gepaste rechten nodig om acties uit te voeren. 
+Geef daarom in dit geval uitzonderlijk hier de rechten van **'Owner'** aan.
+
+<div align="left">
+    <img width="50%"  src="static/click-through-4.png" />
+</div>
+
+### Stap 5: voeg keys toe
+
+Na het creeëren van het service account zul je hier op terechtkomen. 
+Dit is zichtbaar onder **Service Accounts**.
+
+<div align="left">
+    <img width="50%"  src="static/click-through-5.png" />
+</div>
+
+### Stap 6: ADD KEY en Create new key. 
+
+Volg de stappen. 
+
+<div align="left">
+    <img width="50%"  src="static/click-through-6.png" />
+</div>
+
+### Stap 7: JSON as key type => Create
+
+Volg de stappen in de foto. Wanneer je op **CREATE** klikt, zal er een .json bestand gedownload worden. Verwijder dit niet. 
+
+<div align="left">
+    <img width="50%"  src="static/click-through-7.png" />
+</div>
+---
+
+Het service account is nu toegevoegd. Vraag verdere instructies voor het geval dat het gedownloade bestand moet toegevoegd worden aan een Cloud Storage (bucket).
+
+## Bij problemen met de Cloud Storage. 
 
 Open de Cloud Shell.
 
