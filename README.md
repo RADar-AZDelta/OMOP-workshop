@@ -93,11 +93,41 @@ Controleer of dit correct is gelukt door het volgende commando uit te voeren in 
     riab --version
 ```
 
-## Als uw bucket verwijderd is met bij hoorden data volg dan deze stappen.
+## Als uw bucket verwijderd is met bijhorende data volg dan deze stappen.
 
-1. Open de shell
+Open de Cloud Shell.
 
-<img width="960" alt="image" src="https://github.com/RADar-AZDelta/OMOP-workshop/assets/55787755/69196b2f-bce3-4e9e-9db8-17ecb03f6ed4">
+<img width="960" alt="Screenshot 2024-03-13 165626" src="https://github.com/RADar-AZDelta/OMOP-workshop/assets/55787755/8262677f-03f3-41bc-a985-b37ce00ba900">
+
+Voer het volgende commando uit:
+
+```bash
+    python backupScript.py
+```
+![Screenshot 2024-03-13 170553](https://github.com/RADar-AZDelta/OMOP-workshop/assets/55787755/9ffeda35-7b77-4405-8aea-197c001741c9)
+
+
+Dit zorgt ervoor dat je script correct wordt uitgevoerd.
+
+<img width="961" alt="image" src="https://github.com/RADar-AZDelta/OMOP-workshop/assets/55787755/a4732ae3-962e-4708-b3c1-aa4a1d68ad54">
+
+
+refresh het overzicht van de buckets:
+
+<img width="281" alt="image" src="https://github.com/RADar-AZDelta/OMOP-workshop/assets/55787755/ad950b98-07cf-4b21-9c1b-db7eaf7f47a4">
+
+
+Nu zul je een nieuwe bucket zien met de bestanden die je nodig hebt om verder te gaan met de workshop.
+
+![Screenshot 2024-03-13 171449](https://github.com/RADar-AZDelta/OMOP-workshop/assets/55787755/52c12155-2983-48f3-9db5-4b0dc58e64da)
+
+<img width="555" alt="image" src="https://github.com/RADar-AZDelta/OMOP-workshop/assets/55787755/fef1a16b-785e-4c7e-88f4-94918e509099">
+
+
+
+
+
+
 
 
 
