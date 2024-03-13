@@ -1,2 +1,0 @@
-sourceCode,sourceName,sourceFrequency,conceptId,sourceAutoAssignedConceptIds,conceptName,domainId,matchScore,mappingStatus,equivalence,statusSetBy,statusSetOn,mappingType,comment,createdBy,createdOn,assignedReviewer,ADD_INFO:approvedBy,ADD_INFO:approvedOn,ADD_INFO:numberOfConcepts,ADD_INFO:customConcept,ADD_INFO:lastAthenaFilter
-CLINICALINFO_MR volume prostate,MR volume prostate,202,0,,MR volume prostate,,0,APPROVED,EQUAL,Toby,1693812263658,,,Toby,1693812263658,,Pieter-Jan,1693812272001,1,true,

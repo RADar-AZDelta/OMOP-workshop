@@ -1,4 +1,0 @@
-sourceCode,sourceName,sourceFrequency,conceptId,sourceAutoAssignedConceptIds,conceptName,domainId,matchScore,mappingStatus,equivalence,statusSetBy,statusSetOn,mappingType,comment,createdBy,createdOn,assignedReviewer,ADD_INFO:approvedBy,ADD_INFO:approvedOn,ADD_INFO:numberOfConcepts,ADD_INFO:customConcept,ADD_INFO:lastAthenaFilter
-QUESTIONNAIRES_kg,kg,172,9529,9529,kilogram,Unit,0,APPROVED,EQUAL,peter,1693693207243,,,peter,1693693202668,,pj,1693693214498,,,kg
-QUESTIONNAIRES_cm,cm,55,8582,8582,centimeter,Unit,0,APPROVED,EQUAL,peter,1693693207243,,,peter,1693693202791,,pj,1693693214498,,,cm
-QUESTIONNAIRES_kg/m2,kg/m2,33,9531,9531,kilogram per square meter,Unit,0,APPROVED,EQUAL,peter,1693693207243,,,peter,1693693202917,,pj,1693693214498,,,kg/m2

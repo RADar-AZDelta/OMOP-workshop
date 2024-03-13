@@ -1,3 +1,0 @@
-sourceCode,sourceName,sourceFrequency,conceptId,sourceAutoAssignedConceptIds,conceptName,domainId,matchScore,mappingStatus,equivalence,statusSetBy,statusSetOn,mappingType,comment,createdBy,createdOn,assignedReviewer,ADD_INFO:approvedBy,ADD_INFO:approvedOn,ADD_INFO:numberOfConcepts,ADD_INFO:customConcept,ADD_INFO:lastAthenaFilter
-PROCEDURES_806,Digital rectal examination,226,4254766,,Digital examination of rectum,Procedure,0,APPROVED,EQUAL,Nathalie,1693470356773,,,Nathalie,1693470305311,,Nathalie2,1693470526086,1,,4254766
-PROCEDURES_807,Transrectale echografie,226,4082532,,US scan of prostate - transurethral,Procedure,0,APPROVED,EQUAL,Nathalie,1693470356773,,,Nathalie,1693470346115,,Nathalie2,1693470527451,1,,4082532

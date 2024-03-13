@@ -1,2 +1,0 @@
-sourceCode,sourceName,sourceFrequency,conceptId,sourceAutoAssignedConceptIds,conceptName,domainId,matchScore,mappingStatus,equivalence,statusSetBy,statusSetOn,mappingType,comment,createdBy,createdOn,assignedReviewer,ADD_INFO:approvedBy,ADD_INFO:approvedOn,ADD_INFO:numberOfConcepts,ADD_INFO:customConcept,ADD_INFO:lastAthenaFilter
-QUESTIONNAIRES_=,=,,4172703,4172703,=,Meas Value Operator,0,APPROVED,EQUAL,pj,1693693371079,,,pj,1693693361818,,peter,1693693381774,1,,=

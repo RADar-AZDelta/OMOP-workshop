@@ -1,4 +1,0 @@
-sourceCode,sourceName,sourceFrequency,conceptId,sourceAutoAssignedConceptIds,conceptName,domainId,matchScore,mappingStatus,equivalence,statusSetBy,statusSetOn,mappingType,comment,createdBy,createdOn,assignedReviewer,ADD_INFO:approvedBy,ADD_INFO:approvedOn,ADD_INFO:numberOfConcepts,ADD_INFO:customConcept,ADD_INFO:additionalInfo,ADD_INFO:prescriptionID,ADD_INFO:ATC,ADD_INFO:lastAthenaFilter
-CARESITE_ADMWARD,ADMWARD,43,8676,,Nursing Facility,Visit,0,APPROVED,EQUAL,Stijn Dupulthys,1693233059139,,,Stijn Dupulthys,1693233059139,,,,1,,,,,8676
-CARESITE_IZ,IZ,4,32037,,Intensive Care,Visit,0,APPROVED,EQUAL,Stijn Dupulthys,1693233043331,,,Stijn Dupulthys,1693233043331,,,,1,,,,,32037
-CARESITE_campus,campus,1,38004515,,Hospital,Visit,0,APPROVED,EQUAL,Stijn Dupulthys,1693233030763,,,Stijn Dupulthys,1693233030763,,,,1,,,,,38004515
