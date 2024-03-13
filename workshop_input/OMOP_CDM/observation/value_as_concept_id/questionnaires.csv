@@ -1,0 +1,134 @@
+sourceCode,sourceName,sourceFrequency
+QUESTIONNAIRES_XYZ20,Voorgaande prostaat biopsie - Ja,23
+QUESTIONNAIRES_XYZ16,Voorgaande prostaat biopsie - Neen,203
+QUESTIONNAIRES_XYZ14,Digital rectal examination - <Memo>,1
+QUESTIONNAIRES_XYZ11,Digital rectal examination - Normaal,194
+QUESTIONNAIRES_XYZ10,Digital rectal examination - Abnormaal,29
+QUESTIONNAIRES_XYZ13,Digital rectal examination - geen data,1
+QUESTIONNAIRES_XYZ12,Digital rectal examination - Geen gegevens,1
+QUESTIONNAIRES_XYZ14,Transrectale echografie - <Memo>,2
+QUESTIONNAIRES_XYZ11,Transrectale echografie - Normaal,178
+QUESTIONNAIRES_XYZ10,Transrectale echografie - Abnormaal,43
+QUESTIONNAIRES_XYZ13,Transrectale echografie - geen data,1
+QUESTIONNAIRES_XYZ12,Transrectale echografie - Geen gegevens,1
+QUESTIONNAIRES_XYZ21,Transrectale echografie - Niet uitgevoerd,1
+QUESTIONNAIRES_XYZ20,Genetisch risico - Ja,1
+QUESTIONNAIRES_XYZ19,Genetisch risico - ja,30
+QUESTIONNAIRES_XYZ17,Genetisch risico - nee,185
+QUESTIONNAIRES_XYZ16,Genetisch risico - Neen,1
+QUESTIONNAIRES_XYZ18,Genetisch risico - neen,1
+QUESTIONNAIRES_XYZ14,Genetisch risico - <Memo>,4
+QUESTIONNAIRES_XYZ23,Genetisch risico - Negatief,2
+QUESTIONNAIRES_XYZ22,Genetisch risico - negatief,1
+QUESTIONNAIRES_XYZ12,Genetisch risico - Geen gegevens,1
+QUESTIONNAIRES_0015857750,"Histologische diagnose - 8000/3 - Neoplasma, maligne",1
+QUESTIONNAIRES_0015857752,"Histologische diagnose - 8000/3 - Tumor, maligne, NNO",1
+QUESTIONNAIRES_0015857778,"Histologische diagnose - 8010/3 - Carcinoom, NNO",1
+QUESTIONNAIRES_0015857787,"Histologische diagnose - 8012/3 - Grootcellig carcinoom, NNO",8
+QUESTIONNAIRES_0015857788,Histologische diagnose - 8013/3 - Grootcellig neuro-endocrien carcinoom,4
+QUESTIONNAIRES_0015857813,"Histologische diagnose - 8041/3 - Kleincellig carcinoom, NNO",18
+QUESTIONNAIRES_0015857816,Histologische diagnose - 8041/3 - Kleincellig neuro-endocrien carcinoom,3
+QUESTIONNAIRES_0015857817,"Histologische diagnose - 8041/3 - Kleincellig carcinoom, pulmonaal type",18
+QUESTIONNAIRES_0015857826,Histologische diagnose - 8046/3 - Niet-kleincellig carcinoom (C34._),8
+QUESTIONNAIRES_0015857858,"Histologische diagnose - 8070/2 - Plaveiselcelcarcinoma in situ, NNO",1
+QUESTIONNAIRES_0015857862,"Histologische diagnose - 8070/2 - Spinocellulair carcinoma in situ, NNO",1
+QUESTIONNAIRES_0015857863,"Histologische diagnose - 8070/3 - Plaveiselcelcarcinoom, NNO",9
+QUESTIONNAIRES_0015857868,Histologische diagnose - 8070/3 - Spinocellulair carcinoom,41
+QUESTIONNAIRES_0015857874,"Histologische diagnose - 8071/3 - Plaveiselcelcarcinoom, keratiniserend,NNO",1
+QUESTIONNAIRES_0015857878,"Histologische diagnose - 8071/3 - Spinocellulair carcinoom, keratiniserend, NNO",2
+QUESTIONNAIRES_0015857931,Histologische diagnose - 8083/3 - Basaloïd plaveiselcelcarcinoom,1
+QUESTIONNAIRES_0015858046,"Histologische diagnose - 8140/3 - Adenocarcinoom, NNO(uitgezonderd van de anale klieren/ducti M-8215/3)",117
+QUESTIONNAIRES_0015858051,Histologische diagnose - 8140/3 - Acinair adenocarcinoom van de prostaat(C61.9),90
+QUESTIONNAIRES_0015858222,"Histologische diagnose - 8230/3 - Adenocarcinoma solidum, NNO",1
+QUESTIONNAIRES_0015858279,"Histologische diagnose - 8253/3 - Adenocarcinoom van de long, mucineus(C34._)",3
+QUESTIONNAIRES_0015858294,"Histologische diagnose - 8260/3 - Papillair adenocarcinoom, NNO",5
+QUESTIONNAIRES_0015858300,Histologische diagnose - 8261/3 - Adenocarcinoom in villeus adenoom,3
+QUESTIONNAIRES_0015858329,"Histologische diagnose - 8272/3 - Hypofysair carcinoom, NNO (C75.1)",1
+QUESTIONNAIRES_0015858363,"Histologische diagnose - 8310/3 - Heldercellig niercelcarcinoom, NNO",2
+QUESTIONNAIRES_0015858670,Histologische diagnose - 8480/3 - Mucineus adenocarcinoom(Uitgezonderd van de long M-8253/3),1
+QUESTIONNAIRES_0015858833,"Histologische diagnose - 8550/3 - Acinair adenocarcinoom, NNO(uitgezonderd van de long M-8551/3 of de prostaat M-8140/3)",2
+QUESTIONNAIRES_0015858838,Histologische diagnose - 8551/3 - Acinair adenocarcinoom van de long(C34._),9
+QUESTIONNAIRES_0015859035,Histologische diagnose - 8720/2 - Melanoma in situ,1
+QUESTIONNAIRES_0015859942,"Histologische diagnose - 9440/3 - Glioblastoom, IDH-wild type(C71._)",1
+QUESTIONNAIRES_0015860671,Histologische diagnose - 9962/3 - Essentiële trombocytemie,1
+QUESTIONNAIRES_CS00018104,Roken - nooit,303
+QUESTIONNAIRES_CS00018105,Roken - gestopt,578
+QUESTIONNAIRES_CS00018107,Roken - ja,483
+QUESTIONNAIRES_CS00213658,Roken - ja,5
+QUESTIONNAIRES_CS00213659,Roken - nee,8
+QUESTIONNAIRES_ZH00006097,cT - 1,9
+QUESTIONNAIRES_ZH00006098,cT - 1a,1
+QUESTIONNAIRES_ZH00006104,cT - 1b,9
+QUESTIONNAIRES_ZH00006110,cT - 1c,59
+QUESTIONNAIRES_ZH00006123,cT - 2,23
+QUESTIONNAIRES_ZH00006124,cT - 2a,15
+QUESTIONNAIRES_ZH00006130,cT - 2b,11
+QUESTIONNAIRES_ZH00006132,cT - 2c,4
+QUESTIONNAIRES_ZH00006137,cT - 3,43
+QUESTIONNAIRES_ZH00006138,cT - 3a,2
+QUESTIONNAIRES_ZH00006140,cT - 3b,1
+QUESTIONNAIRES_ZH00006149,cT - 4,84
+QUESTIONNAIRES_ZH00006150,cT - 4a,1
+QUESTIONNAIRES_ZH00006164,cT - is,5
+QUESTIONNAIRES_ZH00006169,cT - x,27
+QUESTIONNAIRES_ZH00006170,cN - 0,105
+QUESTIONNAIRES_ZH00006180,cN - 1,20
+QUESTIONNAIRES_ZH00006182,cN - 1a,2
+QUESTIONNAIRES_ZH00006190,cN - 2,88
+QUESTIONNAIRES_ZH00006192,cN - 2b,1
+QUESTIONNAIRES_ZH00006194,cN - 3,64
+QUESTIONNAIRES_ZH00006198,cN - x,15
+QUESTIONNAIRES_ZH00006199,cM - 0,117
+QUESTIONNAIRES_ZH00006204,cM - 1,13
+QUESTIONNAIRES_ZH00006205,cM - 1a,31
+QUESTIONNAIRES_ZH00006206,cM - 1b,31
+QUESTIONNAIRES_ZH00006207,cM - 1c,96
+QUESTIONNAIRES_ZH00006210,cM - x,6
+QUESTIONNAIRES_ZH00006091,"WHO-score bij diagnose - 0: asymptomatisch, normale activiteit",74
+QUESTIONNAIRES_ZH00006092,"WHO-score bij diagnose - 1: symptomatisch, maar ambulant",172
+QUESTIONNAIRES_ZH00006093,"WHO-score bij diagnose - 2: symptomatisch, bedlegerig <50% per dag",34
+QUESTIONNAIRES_ZH00006094,"WHO-score bij diagnose - 3: symptomatisch, bedlegerig >50% per dag",8
+QUESTIONNAIRES_ZH00006095,"WHO-score bij diagnose - 4: aangewezen op volledige verzorging, 100%",12
+QUESTIONNAIRES_ZH00002508,Primaire tumorlocalisatie - C15.5 - Onderste derde deel van slokdarm,1
+QUESTIONNAIRES_ZH00002553,"Primaire tumorlocalisatie - C18.7 - Sigmoïd, NNO",2
+QUESTIONNAIRES_ZH00002563,"Primaire tumorlocalisatie - C20.9 - Rectum, NNO",3
+QUESTIONNAIRES_ZH00002572,Primaire tumorlocalisatie - C22.0 - Lever,1
+QUESTIONNAIRES_ZH00002659,Primaire tumorlocalisatie - C34.0 - Hilus van long,28
+QUESTIONNAIRES_ZH00002661,"Primaire tumorlocalisatie - C34.1 - Bovenkwab, bronchus",23
+QUESTIONNAIRES_ZH00002662,"Primaire tumorlocalisatie - C34.1 - Bovenkwab, long",90
+QUESTIONNAIRES_ZH00002664,"Primaire tumorlocalisatie - C34.2 - Middenkwab, bronchus",1
+QUESTIONNAIRES_ZH00002665,"Primaire tumorlocalisatie - C34.2 - Middenkwab, long",6
+QUESTIONNAIRES_ZH00002666,"Primaire tumorlocalisatie - C34.3 - Onderkwab, bronchus",9
+QUESTIONNAIRES_ZH00002667,"Primaire tumorlocalisatie - C34.3 - Onderkwab, long",39
+QUESTIONNAIRES_ZH00002668,Primaire tumorlocalisatie - C34.8 - Overlappende lokalisatie van long,14
+QUESTIONNAIRES_ZH00002672,"Primaire tumorlocalisatie - C34.9 - Long, NNO",22
+QUESTIONNAIRES_ZH00003237,Primaire tumorlocalisatie - C61.9 - Prostaat,16
+QUESTIONNAIRES_ZH00003256,"Primaire tumorlocalisatie - C64.9 - Nier, NNO",1
+QUESTIONNAIRES_ZH00003545,Primaire tumorlocalisatie - C80.9 - Primaire lokalisatie onbekend,1
+QUESTIONNAIRES_ZH00002392,"Primaire tumorlokalisatie - C04.9 - Mondbodem, NNO",2
+QUESTIONNAIRES_ZH00002505,Primaire tumorlokalisatie - C15.4 - Middelste derde deel van oesofagus,1
+QUESTIONNAIRES_ZH00002538,Primaire tumorlokalisatie - C18.0 - Caecum,1
+QUESTIONNAIRES_ZH00002553,"Primaire tumorlokalisatie - C18.7 - Sigmoïd, NNO",3
+QUESTIONNAIRES_ZH00002560,"Primaire tumorlokalisatie - C19.9 - Rectosigmoïd, NNO",1
+QUESTIONNAIRES_ZH00002572,Primaire tumorlokalisatie - C22.0 - Lever,1
+QUESTIONNAIRES_ZH00002659,Primaire tumorlokalisatie - C34.0 - Hilus van long,21
+QUESTIONNAIRES_ZH00002660,Primaire tumorlokalisatie - C34.0 - Hoofdbronchus,3
+QUESTIONNAIRES_ZH00002661,"Primaire tumorlokalisatie - C34.1 - Bovenkwab, bronchus",6
+QUESTIONNAIRES_ZH00002662,"Primaire tumorlokalisatie - C34.1 - Bovenkwab, long",90
+QUESTIONNAIRES_ZH00002665,"Primaire tumorlokalisatie - C34.2 - Middenkwab, long",5
+QUESTIONNAIRES_ZH00002666,"Primaire tumorlokalisatie - C34.3 - Onderkwab, bronchus",1
+QUESTIONNAIRES_ZH00002667,"Primaire tumorlokalisatie - C34.3 - Onderkwab, long",46
+QUESTIONNAIRES_ZH00002668,Primaire tumorlokalisatie - C34.8 - Overlappende lokalisatie van long,11
+QUESTIONNAIRES_ZH00002672,"Primaire tumorlokalisatie - C34.9 - Long, NNO",18
+QUESTIONNAIRES_ZH00002798,Primaire tumorlokalisatie - C42.1 - Beenmerg,1
+QUESTIONNAIRES_ZH00002821,Primaire tumorlokalisatie - C44.2 - Helix,1
+QUESTIONNAIRES_ZH00002826,Primaire tumorlokalisatie - C44.2 - Oorschelp,1
+QUESTIONNAIRES_ZH00002833,Primaire tumorlokalisatie - C44.3 - Huid van aangezicht,1
+QUESTIONNAIRES_ZH00002839,Primaire tumorlokalisatie - C44.3 - Huid van voorhoofd,1
+QUESTIONNAIRES_ZH00002851,Primaire tumorlokalisatie - C44.4 - Huid van schedel,1
+QUESTIONNAIRES_ZH00002860,Primaire tumorlokalisatie - C44.5 - Huid van borst,1
+QUESTIONNAIRES_ZH00003142,Primaire tumorlokalisatie - C50.6 - Axillaire uitloper van borst,1
+QUESTIONNAIRES_ZH00003237,Primaire tumorlokalisatie - C61.9 - Prostaat,78
+QUESTIONNAIRES_ZH00003256,"Primaire tumorlokalisatie - C64.9 - Nier, NNO",2
+QUESTIONNAIRES_ZH00003386,"Primaire tumorlokalisatie - C71.9 - Hersenen, NNO",1
+QUESTIONNAIRES_ZH00003439,Primaire tumorlokalisatie - C75.1 - Hypofyse,1

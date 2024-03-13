@@ -1,0 +1,2 @@
+sourceCode,sourceName,sourceFrequency,sourceAutoAssignedConceptIds,matchScore,mappingStatus,equivalence,statusSetBy,statusSetOn,conceptId,conceptName,domainId,mappingType,comment,createdBy,createdOn,assignedReviewer
+POSTAL_BE,België,1,,0.59,APPROVED,EQUAL,Stijn Dupulthys,1658928524096,41890291,Belgium,Geography,MAPS_TO,,Stijn Dupulthys,1658928522773,

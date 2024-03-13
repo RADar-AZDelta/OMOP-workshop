@@ -1,0 +1,16 @@
+SELECT 
+    CONCAT("DOCTORS_", rizivnr) AS provider_id
+    ,CONCAT(first_name, ' ', last_name) AS provider_name
+    ,CAST(rizivnr as STRING) AS npi
+    ,CAST(NULL AS STRING) AS dea
+    ,CAST(NULL AS STRING) AS specialty_concept_id
+    ,'care_site_187' AS care_site_id 
+    ,CAST(NULL AS INTEGER) AS year_of_birth
+    ,CONCAT('DOCTORS_', gender) AS gender_concept_id
+    ,CAST(rizivnr AS STRING) AS provider_source_value
+    ,CAST(NULL AS STRING) AS specialty_source_value
+    ,CAST(NULL AS STRING) AS specialty_source_concept_id
+    ,gender AS gender_source_value
+    ,CAST(NULL AS STRING) AS gender_source_concept_id
+FROM 
+    {{project_raw}}.raw_data.doctors

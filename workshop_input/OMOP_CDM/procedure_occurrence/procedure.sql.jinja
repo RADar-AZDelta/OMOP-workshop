@@ -1,0 +1,41 @@
+SELECT
+  CONCAT('PROCEDURES_', ROW_NUMBER() OVER (), '_', procedure_number) AS procedure_occurrence_id,
+  CONCAT("PATIENT_", patientnumber) AS person_id,
+  CONCAT("PROCEDURES_", procedure_source_code) AS procedure_concept_id,
+  DATE(procedure_date) AS procedure_date,
+  DATETIME(
+    DATE(procedure_date),
+    IF(
+      REGEXP_CONTAINS(TRIM(procedure_date), r'^[0-9]{2}\:[0-9]{2}(?:\:[0-9]{2})?$'),
+      TIME(
+        MOD(COALESCE(CAST(REGEXP_EXTRACT(TRIM(procedure_date), r'^([0-9]{2})\:[0-9]{2}(?:\:[0-9]{2})?$') AS int),0),24),
+        MOD(COALESCE(CAST(REGEXP_EXTRACT(TRIM(procedure_date), r'^[0-9]{2}\:([0-9]{2})(?:\:[0-9]{2})?$') AS int),0),60),
+        MOD(COALESCE(CAST(REGEXP_EXTRACT(TRIM(procedure_date), r'^[0-9]{2}\:[0-9]{2}(\:[0-9]{2})$') AS int),0),60) 
+        ),
+      TIME(0,0,0) 
+    ) 
+  ) AS procedure_datetime,
+  DATE(procedure_date) AS procedure_end_date,
+  DATETIME( 
+    DATE(procedure_date),
+    IF(
+      REGEXP_CONTAINS(TRIM(procedure_date), r'^[0-9]{2}\:[0-9]{2}(?:\:[0-9]{2})?$'),
+      TIME(
+        MOD(COALESCE(CAST(REGEXP_EXTRACT(TRIM(procedure_date), r'^([0-9]{2})\:[0-9]{2}(?:\:[0-9]{2})?$') AS int),0),24),
+        MOD(COALESCE(CAST(REGEXP_EXTRACT(TRIM(procedure_date), r'^[0-9]{2}\:([0-9]{2})(?:\:[0-9]{2})?$') AS int),0),60),
+        MOD(COALESCE(CAST(REGEXP_EXTRACT(TRIM(procedure_date), r'^[0-9]{2}\:[0-9]{2}(\:[0-9]{2})$') AS int),0),60) 
+        ),
+      TIME(0,0,0) 
+    ) 
+  ) AS procedure_end_datetime,
+  CAST(NULL AS string) AS procedure_type_concept_id,
+  CAST(NULL AS string) AS modifier_concept_id,
+  1 AS quantity,
+  CONCAT("DOCTORS_", specialist) AS provider_id,
+  CAST(NULL AS string) AS visit_occurrence_id,
+  CAST(NULL AS string) AS visit_detail_id,
+  CONCAT(p.procedure, "_", procedure_source_code) AS procedure_source_value,
+  CAST(NULL AS string) AS procedure_source_concept_id,
+  CAST(NULL AS string) AS modifier_source_value
+FROM
+  {{project_raw}}.raw_data.procedures p

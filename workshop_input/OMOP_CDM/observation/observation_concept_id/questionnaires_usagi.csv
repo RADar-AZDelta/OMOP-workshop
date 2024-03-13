@@ -1,0 +1,14 @@
+sourceCode,sourceName,sourceFrequency,conceptId,sourceAutoAssignedConceptIds,conceptName,domainId,matchScore,mappingStatus,equivalence,statusSetBy,statusSetOn,mappingType,comment,createdBy,createdOn,assignedReviewer,ADD_INFO:approvedBy,ADD_INFO:approvedOn,ADD_INFO:numberOfConcepts,ADD_INFO:customConcept,ADD_INFO:lastAthenaFilter
+QUESTIONNAIRES_00000804,Voorgaande prostaat biopsie,226,0,4204947,history prostate biopsy,Specimen,0,,EQUAL,pj,1693694423495,,,pj,1693694179641,,peter,1693694598014,1,true,Voorgaande prostaat biopsie
+QUESTIONNAIRES_00000806,Digital rectal examination,226,4254766,1552121,Digital examination of rectum,Procedure,0,APPROVED,EQUAL,pj,1693694431953,,,pj,1693694180219,,peter,1693694598014,1,,Digital rectal examination
+QUESTIONNAIRES_00000807,Transrectale echografie,226,2211770,4346752,"Ultrasound, transrectal",Procedure,0,APPROVED,EQUAL,pj,1693694446872,,,pj,1693694180847,,peter,1693694598014,1,,transrectal echo
+QUESTIONNAIRES_00000815,Genetisch risico,226,4298293,42027444,Risk identification: genetic,Procedure,0,APPROVED,EQUAL,pj,1693694465201,,,pj,1693694181279,,peter,1693694598014,1,,genetic risk
+QUESTIONNAIRES_0000010445,Histologische diagnose,355,4135984,40198660,Histological finding,Observation,0,APPROVED,EQUAL,pj,1693694479744,,,pj,1693694181801,,peter,1693694598014,1,,histological diagnosis
+QUESTIONNAIRES_CS00000188,Roken,1364,1585856,607859,Lifestyle: Smoking,Observation,0,APPROVED,EQUAL,pj,1693694491735,,,pj,1693694181951,,peter,1693694598014,1,,smoking
+QUESTIONNAIRES_CS00178108,Roken,13,1585856,607859,Lifestyle: Smoking,Observation,0,APPROVED,EQUAL,pj,1693694499688,,,pj,1693694182059,,peter,1693694598014,1,,smoking
+QUESTIONNAIRES_ZH00000203,cT,294,4164336,915584,cT category,Observation,0,APPROVED,EQUAL,pj,1693694324041,,,pj,1693694182189,,peter,1693694598014,1,,ct categoty
+QUESTIONNAIRES_ZH00000204,cN,295,4164466,4164466,cN category,Observation,0,APPROVED,EQUAL,pj,1693694309458,,,pj,1693694182311,,peter,1693694598014,,,cN
+QUESTIONNAIRES_ZH00000206,cM,294,4164182,8582,cM category,Observation,0,APPROVED,EQUAL,pj,1693694334585,,,pj,1693694182430,,peter,1693694598014,1,,cm category
+QUESTIONNAIRES_ZH00000213,WHO-score bij diagnose,300,44806832,42022181,World Health Organisation (five) well-being index score,Observation,0,APPROVED,EQUAL,pj,1693694545447,,,pj,1693694182902,,peter,1693694598014,1,,who score diagnosis
+QUESTIONNAIRES_ZH00001637,Primaire tumorlocalisatie,257,4129446,35612272,Site of primary tumor,Observation,0,APPROVED,EQUAL,pj,1693694563479,,,pj,1693694183386,,peter,1693694598014,1,,primary tumor localisation
+QUESTIONNAIRES_ZH00001664,Primaire tumorlokalisatie,300,4129446,35612272,Site of primary tumor,Observation,0,APPROVED,EQUAL,pj,1693694588423,,,pj,1693694183880,,peter,1693694598014,1,,primary tumor localisation

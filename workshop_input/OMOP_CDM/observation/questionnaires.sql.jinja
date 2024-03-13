@@ -1,0 +1,38 @@
+SELECT
+  CONCAT('QUESTIONNAIRES_', question_id, "_", answer_id, "_", patientnumber, "_", questionnaire_date ) AS observation_id,
+  CONCAT('PATIENT_',patientnumber) AS person_id,
+  CONCAT('QUESTIONNAIRES_',question_id) AS observation_concept_id,
+  DATE( SUBSTRING(CAST(questionnaire_date AS STRING),1,10) ) AS observation_date,
+  DATETIME(questionnaire_date) AS observation_datetime,
+  CAST(NULL AS STRING) AS observation_type_concept_id,
+  CAST(NULL AS float64) AS value_as_number,
+  CAST(NULL AS STRING) AS value_as_string,
+  CONCAT('QUESTIONNAIRES_',answer_id) AS value_as_concept_id,
+  CAST(NULL AS STRING) AS qualifier_concept_id,
+  CAST(NULL AS STRING) AS unit_concept_id,
+  CAST(NULL AS STRING) AS provider_id,
+  CAST(NULL AS STRING) AS visit_occurrence_id,
+  CAST(NULL AS STRING) AS visit_detail_id,
+  CAST(question AS string) AS observation_source_value,
+  CAST(NULL AS STRING) AS observation_source_concept_id,
+  CAST(NULL AS STRING) AS unit_source_value,
+  CAST(NULL AS STRING) AS qualifier_source_value,
+  CAST(COALESCE(answer1, answer2) AS string) AS value_source_value,
+  CAST(NULL AS STRING) AS observation_event_id,
+  CAST(NULL AS STRING) AS obs_event_field_concept_id
+FROM
+  {{project_raw}}.raw_data.questionnaires
+WHERE
+  question IN ( 'Roken',
+    'cT',
+    'cN',
+    'cM',
+    'WHO-score bij diagnose',
+    'Histologische diagnose',
+    'Digital rectal examination',
+    'Transrectale echografie',
+    'Voorgaande prostaat biopsie',
+    'Genetisch risico',
+    'primaire tumorlokalisatie',
+    'Primaire tumorlocalisatie')
+  AND answer_id IS NOT NULL

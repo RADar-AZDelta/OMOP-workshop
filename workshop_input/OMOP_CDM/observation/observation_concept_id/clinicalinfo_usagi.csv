@@ -1,0 +1,3 @@
+sourceCode,sourceName,sourceFrequency,conceptId,sourceAutoAssignedConceptIds,conceptName,domainId,matchScore,mappingStatus,equivalence,statusSetBy,statusSetOn,mappingType,comment,createdBy,createdOn,assignedReviewer,ADD_INFO:approvedBy,ADD_INFO:approvedOn,ADD_INFO:numberOfConcepts,ADD_INFO:customConcept,ADD_INFO:lastAthenaFilter
+CLINICALINFO_Biopsy gleason score prostate,Biopsy gleason score prostate,200,4157602,,Gleason score,Observation,0,APPROVED,EQUAL,peter,1693692733275,,,peter,1693692733275,,,,1,,"biopsy ""gleason"" score prostate"
+CLINICALINFO_MR PI-RADS score,MR PI-RADS score,202,CLINICALINFO_MR PI-RADS score,,MR PI-RADs score,,0,SEMI-APPROVED,EQUAL,peter,1693692813088,,,peter,1693692813088,,,,1,true,

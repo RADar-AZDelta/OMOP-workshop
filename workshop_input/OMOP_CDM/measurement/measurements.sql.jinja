@@ -1,0 +1,28 @@
+SELECT
+  CONCAT("MEASUREMENT_", meas_id) AS measurement_id,
+  CONCAT("PATIENT_", patientnumber) AS person_id,
+  CONCAT("MEASUREMENT_", measurement_id) AS measurement_concept_id,
+  DATE(measurement_date) AS measurement_date,
+  DATETIME(measurement_date) AS measurement_datetime,
+  CAST(measurement_time AS string) AS measurement_time,
+  CAST(NULL AS string) AS measurement_type_concept_id,
+  CONCAT("MEASUREMENT_",'=') AS operator_concept_id,
+  IF (REGEXP_CONTAINS(TRIM(value), r'^[+-]?([0-9]+[.,]?[0-9]*)$'),CAST(REPLACE(TRIM(value), ",", ".") AS float64),CAST(NULL AS float64)) AS value_as_number,
+  CAST(NULL AS string) AS value_as_concept_id,
+  CONCAT("MEASUREMENT_",unit) AS unit_concept_id,
+  CAST(NULL AS float64) AS range_low,
+  CAST(NULL AS float64) AS range_high,
+  CAST(NULL AS string) AS provider_id,
+  CAST(NULL AS string) AS visit_occurrence_id,
+  CAST(NULL AS string) AS visit_detail_id,
+  CAST(measurement AS string) AS measurement_source_value,
+  CAST(NULL AS string) AS measurement_source_concept_id,
+  CAST(unit AS string) AS unit_source_value,
+  CAST(NULL AS string) AS unit_source_concept_id,
+  CAST(value AS string) AS value_source_value,
+  CAST(NULL AS string) AS measurement_event_id,
+  CAST(NULL AS string) AS meas_event_field_concept_id
+FROM
+  {{project_raw}}.raw_data.measurements
+WHERE
+  IF (REGEXP_CONTAINS(TRIM(value), r'^[+-]?([0-9]+[.,]?[0-9]*)$'),CAST(REPLACE(TRIM(value), ",", ".") AS float64),CAST(NULL AS float64)) IS NOT NULL -- value_as_number must not be empty
