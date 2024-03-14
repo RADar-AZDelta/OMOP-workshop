@@ -168,6 +168,41 @@ Open de Cloud Shell.
 
 <img width="960" alt="Screenshot 2024-03-13 165626" src="https://github.com/RADar-AZDelta/OMOP-workshop/assets/55787755/8262677f-03f3-41bc-a985-b37ce00ba900">
 
+
+
+Controleer of je in het juiste project zit:
+
+![Screenshot 2024-03-14 095120](https://github.com/RADar-AZDelta/OMOP-workshop/assets/55787755/a81f9914-d18f-4163-b1f8-a77711315d12)
+
+
+Als je niet in het juist project zit voor het volgende commando uit:
+
+
+```bash
+    gcloud config set project user-project-<nummer van project>
+```
+
+Als je in het juiste project zit voer het volgende commando uit:
+
+
+```bash
+    nano backupScript.py
+```
+
+Nu zul je met je pijltje naar onder moeten navigeren tot je de "bucket_name" ziet en daar verander je het cijfer naar het cijfer van je project:
+
+
+![Screenshot 2024-03-14 095245](https://github.com/RADar-AZDelta/OMOP-workshop/assets/55787755/a3286544-71a6-417d-a74a-588bd3e22ddb)
+
+
+Voer de volgende sneltoetsen in:
+
+ctrl + x = exit
+ctrl + y = to save
+
+enter
+
+
 Voer het volgende commando uit:
 
 ```bash
