@@ -15,9 +15,9 @@ Ga naar je Google Cloud-account en log in. Controleer vervolgens of het project 
 Open de Cloud Shell en zodra deze is geladen, voer dan het volgende commando uit:
 
 ```bash
-    gsutil cp gs://summer-school-bucket/workshop_input/configure_big_query.py - | python
+    gsutil cp gs://summer-school-bucket-BUCKET_NUMBER/workshop_input/configure_big_query.py - | python
 ```
-**Let op:** in dit commando moet je nog je gebruikersnummer aanpassen.
+**Let op:** in dit commando moet je nog je bucketnummer aanpassen.
 
 Dit commando zal BigQuery configureren met de benodigde datasets en in de 'raw_data'-dataset tabellen aanmaken met de vereiste gegevens.
 
