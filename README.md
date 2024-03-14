@@ -175,7 +175,7 @@ Controleer of je in het juiste project zit:
 ![Screenshot 2024-03-14 095120](https://github.com/RADar-AZDelta/OMOP-workshop/assets/55787755/a81f9914-d18f-4163-b1f8-a77711315d12)
 
 
-Als je niet in het juist project zit voor het volgende commando uit:
+Als je niet in het juist project zit voer het volgende commando uit:
 
 
 ```bash
